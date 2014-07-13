@@ -41,7 +41,6 @@ Ursula Zollinger (Klavier)<br />
 Felix K&uuml;bler (Bass)<br />
 Beat Keller (Gitarre)<br />
 Dominik Garbauer (Schlagzeug)<br />
-Nic Reinhardt (Schlagzeug)</p>
 </div>
 
 </div>
