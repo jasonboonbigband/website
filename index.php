@@ -17,12 +17,7 @@
 	
       Wir spielen regelmässig an Open-Airs, Festivals und privaten Anlässen. Ebenso geben wir pro Jahr 3-4 Strassekonzerte im Kanton Zürich.</p>
       <p>&nbsp;</p>
-      <p>Nächster Event: 
-	<br />
-	17.05.2014, ca. 17.00 Uhr<br />
-	<a href="http://gewerbeausstellungkloten.ch/" target=new>Gewerbeausstellung Kloten</a>, Kolping-Arena</p>
     </div>
-
   </div>
 
 </div>
