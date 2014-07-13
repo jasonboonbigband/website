@@ -11,5 +11,5 @@
 <?php include("navigation.php"); ?>
 
 <div class ="Schriftzug">
-<img src="schriftzug.png" width="337" height="177" />
+<img src="images/schriftzug.png" width="337" height="177" />
 </div>

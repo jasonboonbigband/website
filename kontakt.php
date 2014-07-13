@@ -3,13 +3,13 @@
 <div class ="mainborder">
 
   <div class ="header">
-  <img src="home-header4.png" width="960" height="380" />
+  <img src="images/header/home-header4.png" width="960" height="380" />
   </div>
 
   <div class="lowerpart">
 
   <div id="silhouette">
-      <img src="kopf.png" width="450" id="bottomImage" />
+      <img src="images/kopf.png" width="450" id="bottomImage" />
   </div>
 
   <div class ="content">
