@@ -18,8 +18,7 @@
 <p>Martin Schacher (Leader)</p>
 
 <p>
-Martin Bürgi (Altsax)<br />
-Isabel Schacher (Altsax)<br />
+Martin B&uuml;rgi (Altsax)<br />
 Anina Widmer (Altsax)
 <br />
 Jasmin Baumann (Tenorsax)<br />
@@ -29,19 +28,20 @@ Els van Es (Baritonsax) </p>
 René Halbheer (Trompete)<br />
 Anita Steiner (Trompete)<br />
 Daniel Wegmann (Trompete)<br />
-Jörg Mäder (Trompete)<br />
-Hanspeter Städelin (Trompete)<br />
+J&ouml;rg M&auml;der (Trompete)<br />
+Hanspeter St&auml;delin (Trompete)<br />
 </p>
-<p> Stephan Wüthrich (Posaune, Gesang)<br />
-Christian Städelin (Posaune)<br />
-Christof Grütter (Posaune)<br />
-Fabian Aplanalp (Posaune)</p>
+<p> Stephan W&uuml;thrich (Posaune, Gesang)<br />
+Christian St&auml;delin (Posaune)<br />
+Christof Gr&uuml;tter (Posaune)<br />
+Isabel Schacher (Posaune)
+</p>
 <p>
 Ursula Zollinger (Klavier)<br />
-Felix Kübler (Bass)<br />
+Felix K&uuml;bler (Bass)<br />
 Beat Keller (Gitarre)<br />
-  Dominik Garbauer (Schlagzeug)<br />
-  Nic Reinhardt (Schlagzeug)</p>
+Dominik Garbauer (Schlagzeug)<br />
+Nic Reinhardt (Schlagzeug)</p>
 </div>
 
 </div>
