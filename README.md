@@ -8,7 +8,7 @@
 cp index.php <newpage>.php
 ```
 
-<edit the new page>
+*edit the new page*
 
 add the new page to the $sites array in navigation.php
 
@@ -30,7 +30,7 @@ cd jbbb/website
 git pull
 ```
 
-<edit files>
+*edit files*
 
 ```
 git add .
