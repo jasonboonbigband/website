@@ -1,0 +1,178 @@
+/* CSS Document */
+html, body {
+	font-family: GilSans, Verdana, Helvetica, sans-serif;
+	font-size:14px;
+	color: #000;
+	background-color: #333399;
+	margin-top: 0px;
+	line-height: 1.5;
+	position: relative;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin: 0;
+	padding: 0;
+	
+
+}
+
+
+
+h1 {
+	color: #003;
+}
+.mainborder {
+	background-color: #FFF;
+	position: absolute;
+	height: auto;
+	width: 960px;
+	left: 50%;	
+	margin-left: -480px;
+	margin-right: 0px;
+	 -moz-box-shadow: 5px 5px 5px #333;
+  box-shadow: 5px 5px 5px #333;
+}
+
+.navLine {
+	background-color: rgba(0,0,51,0.7);
+	position: absolute;
+	min-height: 70px;
+	top: 250px;
+	z-index: 3;
+	color: #FFF;
+	width: 100%;
+		overflow-x: hidden;
+
+}
+
+.Schriftzug {
+	z-index: 3;
+	position: absolute;
+	width : 337px;
+ 	height:177px;
+	margin-top: 200px;
+	left: 50%;	
+	margin-left: 200px;
+	right: 0px;
+ 
+}
+
+.navContent {
+	
+	position: relative;
+	left: 50%;	
+	margin-left: -460px;
+	min-height: 100%;
+	margin-top: 20px;
+	
+}
+
+.header {
+	width: 960px;
+	height: 380px;
+	margin-right: 0px;
+}
+
+.silhouette {
+	position: relative;
+	margin-top: -0.4em;
+	bottom: 0px;
+	width: 300px;
+	height: 100%;
+	float: left;
+}
+
+#bottomImage { position: absolute; bottom: 0; }
+
+.lowerpart {
+	width:100%;
+	min-height: 100%; /* Mindesthöhe für moderne Browser */
+	margin-top: 0px;
+	float: left;
+	height:auto !important; /* Important Regel für moderne Browser */
+	height:100%; /* Mindesthöhe für den IE */
+	overflow: hidden !important; /* FF Scroll-leiste */ 
+	overflow: hidden;
+}
+
+.content{
+	position = relative;
+	width: 500px;
+	height; 740;
+	float: right;
+	padding: 10px;
+	overflow: auto;
+	margin-right: 90px;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	
+}
+
+
+ 
+  ul#Navigation {
+    margin: 0; padding: 0;
+    text-align: center;
+  }
+
+  ul#Navigation li {
+    list-style: none;
+    float: left;  /* ohne width - nach CSS 2.1 erlaubt */
+    position: relative;
+    margin: 0em; padding: 0;
+  }
+  
+ 
+  ul#Navigation li ul { 
+    margin: 0; padding: 0;
+    position: absolute;
+    top: 1.6em; left: -0.0em; /*position unterpunkte*/
+    display: none;  /* Unternavigation ausblenden */
+  }
+  
+
+  ul#Navigation li:hover ul {
+    display: block;  /* Unternavigation in modernen Browsern einblenden */
+  }
+  
+  ul#Navigation li ul li {
+    float: none;
+    display: block;
+    margin-bottom: 0.0em;
+	
+  }
+
+  ul#Navigation a, ul#Navigation span {
+    display: block;
+    width: 5.0em;  /* Breite den in li enthaltenen Elementen zuweisen */
+    padding: 0.2em 1em;
+    text-decoration: none;
+    color: white; 
+	/*background-color: rgba(0,0,51,0.7);*/
+	 /* Hintergrundfarbe Button*/
+	
+ 
+  ul#Navigation a:hover, ul#Navigation span, li a#aktuell {
+    color: white; /* Farbe beim drüberfahren*/
+	font-weight: bold;
+	
+  }
+  li a#aktuell {  /* aktuelle Rubrik kennzeichnen */
+    color: white; 
+	font-weight: bold;
+	
+  }
+  ul#Navigation li ul span {  /* aktuelle Unterseite kennzeichnen */
+	font-weight: bold;
+	
+  }
+ .content a {
+	 text-decoration:none;
+	 color:#003;
+	 font-weight: bold;
+ }
+ 
+  .content a:hover {
+	 text-decoration:underline;
+	 color:#666;
+	 font-weight: bold;
+ }
