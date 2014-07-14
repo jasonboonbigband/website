@@ -17,6 +17,7 @@
 	
       Wir spielen regelmässig an Open-Airs, Festivals und privaten Anlässen. Ebenso geben wir pro Jahr 3-4 Strassekonzerte im Kanton Zürich.</p>
       <p>&nbsp;</p>
+      <p>&nbsp;</p>
     </div>
   </div>
 
