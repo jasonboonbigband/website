@@ -73,18 +73,23 @@ h1 {
 }
 
 .silhouette {
+	
 	position: relative;
 	margin-top: -0.4em;
 	bottom: 0px;
 	width: 300px;
 	height: 100%;
 	float: left;
-	z-position: 15;
+	
 }
 
-#bottomImage { position: absolute; bottom: 0; }
+#bottomImage { 
+position: absolute; 
+bottom: 0; 
+z-index: 0; }
 
 .lowerpart {
+	z-index:10;
 	width:100%;
 	min-height: 100%; /* Mindesthöhe für moderne Browser */
 	margin-top: 0px;
@@ -105,7 +110,7 @@ h1 {
 	margin-right: 90px;
 	margin-top: 50px;
 	margin-bottom: 100px;
-	z-index: 20;
+	z-index: 10;
 }
 
 
@@ -170,10 +175,28 @@ h1 {
 	 text-decoration:none;
 	 color:#003;
 	 font-weight: bold;
+	 z-index:100;
  }
+ 
+ .content p a {
+	 text-decoration:none;
+	 color:#003;
+	 font-weight: bold;
+	 z-index:100;
+ }
+ 
+  
+  .content p a:hover {
+	 text-decoration:underline;
+	 color:#666;
+	 font-weight: bold;
+	 z-index:100
+ }
+
  
   .content a:hover {
 	 text-decoration:underline;
 	 color:#666;
 	 font-weight: bold;
+	 z-index:100
  }
