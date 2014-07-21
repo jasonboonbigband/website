@@ -13,14 +13,21 @@
     </div>
 
     <div class ="content">
+    
+    <h1> Jason Boon Bigband</h1>
       <p>Die Jason Boon Bigband besteht aus zwanzig ambitionierten Amateur- und Berufsmusikern. Wir haben ein breites Repertoire an poppigen und jazzigen Tunes, mit denen wir Ihre Geburtstags-, Hochzeits- oder Geschäftsfeier umrahmen können.
 	
       Wir spielen regelmässig an Open-Airs, Festivals und privaten Anlässen. Ebenso geben wir pro Jahr 3-4 Strassekonzerte im Kanton Zürich.</p>
       <p>&nbsp;</p>
+      <h2>News
+      </h2>
+      <p> Die Jason Boon Bigband ist dabei beim "Kampf der Orchester"! Wir freuen uns riesig auf diese Herausforderung. Mehr Infos unter: <a href="http://www.srf.ch/kampfderorchester"> Kampf der Orchester</a></p>
+      
+      <p>&nbsp;</p>
       <br> <br> <br>
 	  
 
-<a href="https://www.facebook.com/JasonBoonBigBand?fref=ts"><img src="images/facebook.png" width="150" target="_blank"></a> 
+		<a href="https://www.facebook.com/JasonBoonBigBand?fref=ts"target="_blank"><img src="images/facebook.png" width="150" /></a> 
 	  
       <p>&nbsp;</p>
     </div>
