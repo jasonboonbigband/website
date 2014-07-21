@@ -16,6 +16,7 @@
 <h1> Band </h1>
 
 <p>Martin Schacher (Leader)</p>
+<p>Patric Scott (Gesang)</p>
 
 <p>
 Martin B&uuml;rgi (Altsax)<br />
