@@ -21,13 +21,13 @@
       <p>&nbsp;</p>
       <h2>News
       </h2>
-      <p> Die Jason Boon Bigband ist dabei beim "Kampf der Orchester"! Wir freuen uns riesig auf diese Herausforderung. Mehr Infos unter: <a href="http://www.srf.ch/kampfderorchester"> Kampf der Orchester</a></p>
+      <p> Die Jason Boon Bigband ist dabei beim "Kampf der Orchester"! Wir freuen uns riesig auf diese Herausforderung. Mehr Infos unter: <a href="http://www.srf.ch/kampfderorchester" target="_blank"> Kampf der Orchester</a></p>
       
       <p>&nbsp;</p>
       <br> <br> <br>
 	  
 
-		<a href="https://www.facebook.com/JasonBoonBigBand?fref=ts"target="_blank"><img src="images/facebook.png" width="150" /></a> 
+		<a href="https://www.facebook.com/JasonBoonBigBand?fref=ts" target="_blank"><img src="images/facebook.png" width="150" /></a> 
 	  
       <p>&nbsp;</p>
     </div>
