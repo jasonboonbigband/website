@@ -79,6 +79,7 @@ h1 {
 	width: 300px;
 	height: 100%;
 	float: left;
+	z-position: 15;
 }
 
 #bottomImage { position: absolute; bottom: 0; }
