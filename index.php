@@ -20,7 +20,7 @@
       <br> <br> <br>
 	  
 
-<a href="https://www.facebook.com/JasonBoonBigBand?fref=ts"><img src="images/facebook.png" width="150" _blank></a> 
+<a href="https://www.facebook.com/JasonBoonBigBand?fref=ts"><img src="images/facebook.png" width="150" target="_blank"></a> 
 	  
       <p>&nbsp;</p>
     </div>
