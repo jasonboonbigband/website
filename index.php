@@ -27,6 +27,7 @@
       <p><a href="http://www.srf.ch/kampfderorchester" target="_blank">&gt; Kampf der Orchester</a></p>
       <p><a href="http://jasonboonbigband.blogspot.ch/" target="_blank">&gt; Kampf der Orchester Blog der Jbbb</a></p>
       <p>&nbsp;</p>
+      <p>&nbsp;</p>
       <p><br> 
         <br>
       </p>
