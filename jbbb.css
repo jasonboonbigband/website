@@ -74,22 +74,33 @@ h1 {
 
 .silhouette {
 	
-	position: relative;
-	margin-top: -0.4em;
 	bottom: 0px;
 	width: 300px;
 	height: 100%;
 	float: left;
+
 	
 }
 
-#bottomImage { 
-position: absolute; 
-bottom: 0; 
-z-index: 0; }
+.facebook {
+	margin-right: 4px;
+	bottom: 0px;
+	width: 300px;
+	height: 100%;
+	float: right;
+
+	
+}
+
+#bottomImage {
+	position: relative;
+	bottom: -415px;
+	z-index: 10;
+	left: 5px;
+}
 
 .lowerpart {
-	z-index:10;
+	z-index:0;
 	width:100%;
 	min-height: 100%; /* Mindesthöhe für moderne Browser */
 	margin-top: 0px;
