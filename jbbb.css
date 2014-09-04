@@ -181,18 +181,18 @@ h1 {
 	font-weight: bold;
 	
   }
-p a {
+a {
 	 text-decoration:none;
-	 color:#003;
+	 
 	 font-weight: bold;
 	
  }
 
 
  
-p a:hover {
+a:hover {
 	text-decoration: none;
-	color: #666;
+
 	font-weight: bold;
 	
  }
