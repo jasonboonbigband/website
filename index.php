@@ -3,20 +3,18 @@
 <div class ="mainborder">
 
   <div class ="header">
-  <img src="images/header/home-header2.png" width="960" height="380" ></img>
+  	<img src="images/header/home-header2.png" width="960" height="380" ></img>
   </div>
 
  
   <div class="lowerpart">
   
-  <div class="silhouette" >
-	<img src="images/kopf.png" name="bottomImage" width="400" id="bottomImage" align="absbottom" />
-   
+  	<div class="silhouette" >
+		<img src="images/kopf.png" name="bottomImage" width="400" id="bottomImage" align="absbottom" />
 	</div>
 
     
     <div class ="content">
-    
     <h1> Jason Boon Bigband</h1>
       <p>Die Jason Boon Bigband besteht aus zwanzig ambitionierten Amateur- und Berufsmusikern. Wir haben ein breites Repertoire an poppigen und jazzigen Tunes, mit denen wir Ihre Geburtstags-, Hochzeits- oder Geschäftsfeier umrahmen können.
 	
@@ -33,9 +31,7 @@
         <br>
       </p>
       <a href="https://www.facebook.com/JasonBoonBigBand?fref=ts" target="_blank"><img src="images/facebook.png" width="150" align="right" /></a>
-      <div style="float: right;">
-        
-      </div>
+      
     </div>
     
 
