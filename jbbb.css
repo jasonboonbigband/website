@@ -84,10 +84,10 @@ h1 {
 
 .facebook {
 	margin-right: 4px;
-	bottom: 0px;
+	position: relative;
 	width: 300px;
 	height: 100%;
-	float: right;
+	
 
 	
 }

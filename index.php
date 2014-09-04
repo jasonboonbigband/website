@@ -13,7 +13,8 @@
 	<img src="images/kopf.png" name="bottomImage" width="400" id="bottomImage" align="absbottom" />
    
 	</div>
-    <div class="facebook"><p><a href="https://www.facebook.com/JasonBoonBigBand?fref=ts" target="_blank"><img src="images/facebook.png" width="150" align="right" /></a></p></div>
+
+    
     <div class ="content">
     
     <h1> Jason Boon Bigband</h1>
@@ -27,16 +28,18 @@
       Mehr Infos unter: <br /></p>
       <p><a href="http://www.srf.ch/kampfderorchester" target="_blank">&gt; Kampf der Orchester</a></p>
       <p><a href="http://jasonboonbigband.blogspot.ch/" target="_blank">&gt; Kampf der Orchester Blog der Jbbb</a></p>
+      <p>&nbsp;</p>
       <p><br> 
         <br>
       </p>
+      <a href="https://www.facebook.com/JasonBoonBigBand?fref=ts" target="_blank"><img src="images/facebook.png" width="150" align="right" /></a>
       <div style="float: right;">
         
       </div>
     </div>
     
 
-    </div>
+  </div>
 </div>
 
 
