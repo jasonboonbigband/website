@@ -26,7 +26,7 @@
       Mehr Infos unter: <br /></p>
       <p><a href="http://www.srf.ch/kampfderorchester" target="_blank">&gt; Kampf der Orchester</a></p>
       <p><a href="http://jasonboonbigband.blogspot.ch/" target="_blank">&gt; Kampf der Orchester Blog der Jbbb</a></p>
-      <p><a href="https://docs.google.com/forms/d/1EfILTbdNnSBgnW282pQP-UKd3-bXhVSN8xUmt9eM9DY/viewform?usp=send_form" target="_blank">&gt; Ticketreservation aus dem JBBB-Kontingent für die Sendungen in der Bodensee-Arena</a></p>
+      <p><a href="https://docs.google.com/forms/d/1EfILTbdNnSBgnW282pQP-UKd3-bXhVSN8xUmt9eM9DY/viewform?usp=send_form" target="_blank">&gt; Ticketreservation aus dem Jbbb-Kontingent für die Sendungen in der Bodensee-Arena</a></p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
       <p><br> 
