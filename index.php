@@ -20,9 +20,11 @@
  </p>
       <p><img src="images/boons_kdo.jpg" width="500" alt="JBBB" /> </p>
       <p>Tixx für die Live-Shows in der Bodensee-Arena:<a href="https://www.starticket.ch/0showlist.asp?Language=D&txtSearch=kampf+der+orchester&suchen.x=0&suchen.y=0&fulltextHidden=1"> Starticket</a></p>
-      <div class="fb-like-box" data-href="https://www.facebook.com/JasonBoonBigband" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="true" data-show-border="true"></div>
+     <div class="fb-like-box" data-href="https://www.facebook.com/jasonboonbigband" data-width="300" data-height="500" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="true" data-show-border="true"></div>
+      
+      <iframe width="500" height="300" src="//www.youtube.com/embed/videoseries?list=PLilMLbHHTVTGODTlY90S9LsVLfi_a-ikB" frameborder="0" allowfullscreen></iframe>
     </div>
-    
+    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fjasonboonbigband&amp;width=300&amp;height=590&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:590px;" allowTransparency="true"></iframe>
 
   </div>
 </div>
