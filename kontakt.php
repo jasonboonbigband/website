@@ -22,17 +22,14 @@
       <br />
       c/o Martin Schacher
       <br />
-      Im Amtsacker 7
+      Auenstrasse 61
       <br />
-      8424 Embrach  </p>
+      8302 Kloten</p>
     <p><br />
       Tel: 078 805 12 13
 	<br />
 	Mail: info[at]jbbb.ch</p>
     </div>
-
   </div>
-
 </div>
-
 <?php include("footer.php"); ?>
