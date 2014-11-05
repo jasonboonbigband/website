@@ -5,10 +5,18 @@
     <div class="silhouette" > <img src="images/kopf.png" name="bottomImage" width="400" id="bottomImage" align="absbottom" /> </div>
     <div class ="content">
       <h1>Hot news</h1>
-      <div style="display:none;" class="html5gallery" data-skin="horizontal" data-width="480" data-height="272">
-       <!-- Add images to Gallery -->
-       <a href="images/boons_kdo.jpg"><img src="images/boons_kdo.jpg"></a>
-       <a href="examples/images/Tulip_small.jpg"><img src="examples/images/Tulip_large.jpg"></a>
+      <!--START JUICEBOX EMBED-->
+<script src="jbcore/juicebox.js"></script>
+<script>
+new juicebox({
+containerId: "juicebox-container",
+galleryWidth: "480 px",
+galleryHeight: "300",
+backgroundColor: "#222222"
+});
+</script>
+<div id="juicebox-container"></div>
+<!--END JUICEBOX EMBED-->
     
     </div>
 
