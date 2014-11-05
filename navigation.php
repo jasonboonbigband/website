@@ -2,7 +2,7 @@
 $sites=array(
   "HOME"=>"index.php",
   "BAND"=>"band.php",
- "GALERIE"=>"galerie.php",
+ # "GALERIE"=>"galerie.php",
   "KONTAKT"=>"kontakt.php",
 );
 
