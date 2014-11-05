@@ -9,7 +9,7 @@
       <p><img src="images/boons_kdo.jpg" width="500" alt="JBBB" /> </p>
       <p>Tixx für die Live-Shows in der Bodensee-Arena:<a href="https://www.starticket.ch/0showlist.asp?Language=D&txtSearch=kampf+der+orchester&suchen.x=0&suchen.y=0&fulltextHidden=1"> Starticket</a></p>
       
-      <a class="twitter-timeline" href="https://twitter.com/JBBB_CH" data-widget-id="530088203810656256">Tweets von @JBBB_CH</a> 
+      <a class="twitter-timeline" width="200" height="200" href="https://twitter.com/JBBB_CH" data-widget-id="530088203810656256">Tweets von @JBBB_CH</a> 
       
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       
