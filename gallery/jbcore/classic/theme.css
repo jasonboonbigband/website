@@ -191,7 +191,7 @@ div.jb-idx-thb-list .jb-thm-thumb-dot {
 	border-style: solid;
 }
 .jb-flag-msie .jb-idx-thb-frame {	/* the frame around thumbnail won't work correctly on IE without this */
-	background: url('../../gallery/jbcore/classic/img/assets.png') no-repeat -454px -61px;
+	background: url('img/assets.png') no-repeat -454px -61px;
 }
 div.jb-idx-thb-list-page-number {
 	font-size: 13px;
@@ -520,7 +520,7 @@ div.index-navigation.jb-navigation .jbn-nav-button-icon
 	cursor: default !important;
 }
 .jb-flag-msie .jbn-nav-touch-area {	/* this will make the jbn-nav-touch-area clickable on IE */
-	background: url('../../gallery/jbcore/classic/img/assets.png') no-repeat -454px -61px;
+	background: url('img/assets.png') no-repeat -454px -61px;
 }
 .jb-flag-msie .jb-navigation .jbn-nav-touch-area {
 	display: block;
@@ -702,7 +702,7 @@ div.jb-splash
 	background-color:Black;
 }
 div.jb-status-loading {
-	background: url('../../gallery/jbcore/classic/img/spinner.gif') no-repeat center;
+	background: url('img/spinner.gif') no-repeat center;
 	height: 100%;
 	width: 100%;
 	margin: 0;
@@ -711,17 +711,17 @@ div.jb-status-loading {
 }
 .jb-badge
 {
-	background: url('../../gallery/jbcore/classic/img/jb001.png') no-repeat center;
+	background: url('img/jb001.png') no-repeat center;
 }
 
 
 /****** font icon stuff ******/
 @font-face {
 	font-family: 'juicebox';
-	src:url('../../gallery/jbcore/classic/fonts/juicebox.eot');
-	src:url('../../gallery/jbcore/classic/fonts/juicebox.eot?#iefix') format('embedded-opentype'),
-url('../../gallery/jbcore/classic/fonts/juicebox.woff') format('woff'),
-url('../../gallery/jbcore/classic/fonts/juicebox.ttf') format('truetype');
+	src:url('fonts/juicebox.eot');
+	src:url('fonts/juicebox.eot?#iefix') format('embedded-opentype'),
+		url('fonts/juicebox.woff') format('woff'),
+		url('fonts/juicebox.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
