@@ -1,3 +1,3 @@
 <?php
-header("Location: https://docs.google.com/forms/d/1EfILTbdNnSBgnW282pQP-UKd3-bXhVSN8xUmt9eM9DY/viewform?usp=send_form");
+header("Location: https://www.starticket.ch/0showlist.asp?Language=D&txtSearch=kampf+der+orchester&suchen.x=0&suchen.y=0&fulltextHidden=1");
 
