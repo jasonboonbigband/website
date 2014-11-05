@@ -17,9 +17,6 @@ backgroundColor: "#222222"
 </script>
 <div id="juicebox-container"></div>
 <!--END JUICEBOX EMBED-->
-    
-    </div>
-
       <p>&nbsp; </p>
       
       <iframe width="500" height="300" src="//www.youtube.com/embed/videoseries?list=PLilMLbHHTVTGODTlY90S9LsVLfi_a-ikB" frameborder="0" allowfullscreen></iframe>
