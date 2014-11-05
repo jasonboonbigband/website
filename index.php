@@ -11,7 +11,7 @@
        <a href="examples/images/Tulip_small.jpg"><img src="examples/images/Tulip_large.jpg"></a>
     
     </div>
-      <p><img src="images/boons_kdo.jpg" width="500" alt="JBBB" /> </p>
+
       <p>&nbsp; </p>
       
       <iframe width="500" height="300" src="//www.youtube.com/embed/videoseries?list=PLilMLbHHTVTGODTlY90S9LsVLfi_a-ikB" frameborder="0" allowfullscreen></iframe>
