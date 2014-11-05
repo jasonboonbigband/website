@@ -4,7 +4,6 @@
   <div class="lowerpart">
     <div class="silhouette" > <img src="images/kopf.png" name="bottomImage" width="400" id="bottomImage" align="absbottom" /> </div>
     <div class ="content">
-      <h1>Hot news</h1>
       <!--START JUICEBOX EMBED-->
 <script src="jbcore/juicebox.js"></script>
 <script>
@@ -16,9 +15,9 @@ backgroundColor: "#222222"
 });
 </script>
 <div id="juicebox-container"></div>
-<!--END JUICEBOX EMBED-->
-      <p>&nbsp; </p>
-      
+<br />Eindrücke aus den Proben für &quot;Kampf der Orchester&quot;.
+<p>&nbsp;</p>
+<!--END JUICEBOX EMBED-->      
       <iframe width="500" height="300" src="//www.youtube.com/embed/videoseries?list=PLilMLbHHTVTGODTlY90S9LsVLfi_a-ikB" frameborder="0" allowfullscreen></iframe>
         
 <p>
