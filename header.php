@@ -5,6 +5,8 @@
 <meta charset="utf-8">
 <title>Jason Boon Bigband</title>
 <link href="jbbb.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="html5gallery/jquery.js"></script>
+    <script type="text/javascript" src="html5gallery/html5gallery.js"></script>
 </head>
 
 <body>

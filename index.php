@@ -4,9 +4,14 @@
   <div class="lowerpart">
     <div class="silhouette" > <img src="images/kopf.png" name="bottomImage" width="400" id="bottomImage" align="absbottom" /> </div>
     <div class ="content">
-      <h1>Kampf der Orchester</h1>
+      <h1>Hot news</h1>
+      <div style="display:none;" class="html5gallery" data-skin="horizontal" data-width="480" data-height="272">
+       <!-- Add images to Gallery -->
+       <a href="images/boons_kdo.jpg"><img src="images/boons_kdo.jpg"></a>
+    
+    </div>
       <p><img src="images/boons_kdo.jpg" width="500" alt="JBBB" /> </p>
-      <p></p>
+      <p>&nbsp; </p>
       
       <iframe width="500" height="300" src="//www.youtube.com/embed/videoseries?list=PLilMLbHHTVTGODTlY90S9LsVLfi_a-ikB" frameborder="0" allowfullscreen></iframe>
         
