@@ -8,6 +8,7 @@
       <div style="display:none;" class="html5gallery" data-skin="horizontal" data-width="480" data-height="272">
        <!-- Add images to Gallery -->
        <a href="images/boons_kdo.jpg"><img src="images/boons_kdo.jpg"></a>
+       <a href="examples/images/Tulip_small.jpg"><img src="examples/images/Tulip_large.jpg"></a>
     
     </div>
       <p><img src="images/boons_kdo.jpg" width="500" alt="JBBB" /> </p>
