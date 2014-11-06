@@ -28,10 +28,11 @@ backgroundColor: "rgba(255,255,255,0)"
 </a>Unser KdO-Blog: <a href="http://jasonboonbigband.blogspot.ch/" target="_blank">http://jasonboonbigband.blogspot.ch/</a><br />
 <br />
 Infos zur Show: <a href="http://www.srf.ch/sendungen/kampf-der-orchester" target="_blank">http://www.srf.ch/KdO<br />
-<br />
-<iframe width="500" height="300" src="//www.youtube.com/embed/videoseries?list=PLilMLbHHTVTGODTlY90S9LsVLfi_a-ikB" frameborder="0" allowfullscreen></iframe>
-<br />
 </a></p>
+      <p><a href="http://www.srf.ch/sendungen/kampf-der-orchester" target="_blank"><br />
+  <iframe width="500" height="300" src="//www.youtube.com/embed/videoseries?list=PLilMLbHHTVTGODTlY90S9LsVLfi_a-ikB" frameborder="0" allowfullscreen></iframe>
+  <br />
+      </a></p>
       <p>Die App kann jetzt im <a href="https://appsto.re/ch/iDdL3.i" target="_blank">App Store </a>von Apple oder im <a href="https://play.google.com/store/apps/details?id=ch.srf.kdo" target="_blank">Playstore </a>von Google runtergeladen werden.</p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
@@ -41,7 +42,6 @@ Infos zur Show: <a href="http://www.srf.ch/sendungen/kampf-der-orchester" target
       <p>&nbsp;</p>
       <p>&nbsp;</p>
     </div>
-    <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
