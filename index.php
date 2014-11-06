@@ -31,22 +31,8 @@
         <div id="juicebox-container"></div>
         <!--END JUICEBOX EMBED-->
 
-<<<<<<< HEAD
-              <p>
-                Tixx für die Live-Shows in der Bodensee-Arena:<a href="https://www.starticket.ch/0showlist.asp?Language=D&txtSearch=kampf+der+orchester&suchen.x=0&suchen.y=0&fulltextHidden=1" target="_blank"> Starticket</a><a href="https://www.starticket.ch/0showlist.asp?Language=D&txtSearch=kampf+der+orchester&suchen.x=0&suchen.y=0&fulltextHidden=1"><br />
-        <br />
-        </a>Unser KdO-Blog: <a href="http://jasonboonbigband.blogspot.ch/" target="_blank">http://jasonboonbigband.blogspot.ch/</a><br />
-        <br />
-        Infos zur Show: <a href="http://www.srf.ch/sendungen/kampf-der-orchester" target="_blank">http://www.srf.ch/KdO<br />
-        </a></p>
-        
-      <p><a href="http://www.srf.ch/sendungen/kampf-der-orchester" target="_blank"><br />
-  <iframe width="500" height="300" src="//www.youtube.com/embed/videoseries?list=PLilMLbHHTVTGODTlY90S9LsVLfi_a-ikB" frameborder="0" allowfullscreen></iframe>
-  <br />
-      </a></p>
-      
-      <p><br/>Die App kann jetzt im <a href="https://appsto.re/ch/iDdL3.i" target="_blank">App Store </a>von Apple oder im <a href="https://play.google.com/store/apps/details?id=ch.srf.kdo" target="_blank">Playstore </a>von Google runtergeladen werden.</p>
-=======
+
+    
       <p>
         Tixx für die Live-Shows in der Bodensee-Arena:<a href="https://www.starticket.ch/0showlist.asp?Language=D&txtSearch=kampf+der+orchester&suchen.x=0&suchen.y=0&fulltextHidden=1" target="_blank"> Starticket</a><a href="https://www.starticket.ch/0showlist.asp?Language=D&txtSearch=kampf+der+orchester&suchen.x=0&suchen.y=0&fulltextHidden=1"><br />
 <br />
@@ -58,7 +44,7 @@ Infos zur Show: <a href="http://www.srf.ch/sendungen/kampf-der-orchester" target
 <br />
 </a></p>
       <p>Die App kann jetzt im <a href="https://appsto.re/ch/iDdL3.i" target="_blank">App Store </a>von Apple oder im <a href="https://play.google.com/store/apps/details?id=ch.srf.kdo" target="_blank">Playstore </a>von Google runtergeladen werden.</p>
->>>>>>> parent of f40a932... formatierig
+
       <p>&nbsp;</p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
@@ -70,15 +56,7 @@ Infos zur Show: <a href="http://www.srf.ch/sendungen/kampf-der-orchester" target
       
     	
     </div>
-<<<<<<< HEAD
-  
-=======
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <br/>
->>>>>>> parent of f40a932... formatierig
+
 
  	 
   
