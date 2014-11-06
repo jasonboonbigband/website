@@ -33,12 +33,18 @@ Infos zur Show: <a href="http://www.srf.ch/sendungen/kampf-der-orchester" target
 <br />
 </a></p>
       <p>Die App kann jetzt im <a href="https://appsto.re/ch/iDdL3.i" target="_blank">App Store </a>von Apple oder im <a href="https://play.google.com/store/apps/details?id=ch.srf.kdo" target="_blank">Playstore </a>von Google runtergeladen werden.</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
     </div>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
-    <p>&nbsp;</p>
+
     <p><br/>  
     </p>
     <div class="fb-like-box" data-href="https://www.facebook.com/jasonboonbigband" data-width="300" data-height="500" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="true" data-show-border="true"></div>
