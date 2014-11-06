@@ -12,7 +12,7 @@
       <img src="images/kopf.png" width="450" id="bottomImage" />
   </div>
 
-  <div class ="content">
+  <div class ="othercontent">
     <h1> Kontakt </h1>
     <p>Ob Hochzeit, Firmenanlass, Geburtstagsfeier, Apéro oder Ballnacht - gerne organisieren wir mit Ihnen  einen Auftritt der Jason Boon Bigband an Ihrem Event.</p>
     <p>Unsere Anschrift lautet:

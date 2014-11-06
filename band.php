@@ -12,7 +12,7 @@
     <img src="images/kopf.png" width="450" id="bottomImage" />
 </div>
 
-<div class ="content">
+<div class ="othercontent">
 <h1> Band </h1>
 
 <p>Martin Schacher (Leader)</p>
