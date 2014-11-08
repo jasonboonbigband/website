@@ -45,8 +45,7 @@ Christian St&auml;delin (Posaune)</p>
 Ursula Zollinger (Klavier)<br /> 
 Felix K&uuml;bler / Colin Morton (Bass)<br />
 Beat Keller / David Beer (Gitarre)<br />
-Mic Schaffner(Schlagzeug)
-<p>Amanda Scheiwiller (Percussion)
+Mic Schaffner(Schlagzeug)<p>Amanda Scheiwiller (Percussion)
   <br />
   Philippe Lehner (Percussion)<br />
   Sandro Pedrett (Percussion)<br />
