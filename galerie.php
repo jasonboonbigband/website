@@ -19,8 +19,8 @@
 <script>
 new juicebox({
 containerId: "juicebox-container",
-galleryWidth: "600",
-galleryHeight: "500",
+galleryWidth: "100%",
+galleryHeight: "100%",
 backgroundColor: "#222222"
 });
 </script>
