@@ -14,7 +14,18 @@
 
   <div class ="content">
     <h1> Galerie </h1>
-    <p>folgt.</p>
+  <!--START JUICEBOX EMBED-->
+<script src="gallery/stagedays/jbcore/juicebox.js"></script>
+<script>
+new juicebox({
+containerId: "juicebox-container",
+galleryWidth: "100%",
+galleryHeight: "100%",
+backgroundColor: "#222222"
+});
+</script>
+<div id="juicebox-container"></div>
+<!--END JUICEBOX EMBED-->
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
