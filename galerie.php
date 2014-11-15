@@ -15,10 +15,10 @@
     </div>
 
   <div class ="content">
-    <h1> Galerie </h1>
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Galerie </h1>
+<br/>
 
-
-<h2>Stage Days Openair 2013</h2>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proben - Kampf der Orchester 2014</h2>
 
 
 <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
@@ -125,11 +125,9 @@
 <p>&nbsp;</p>
 	<p>&nbsp;</p>
     
-<h2>Stage Days Openair 2013</h2>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage Days Openair 2013</h2>
 	<p>&nbsp;</p>
-    
-<p>&nbsp;</p>
-	<p>&nbsp;</p>
+
 
 <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
 	<div id="wowslider-container1">
