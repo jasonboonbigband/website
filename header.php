@@ -7,6 +7,18 @@
 <link href="jbbb.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="html5gallery/jquery.js"></script>
     <script type="text/javascript" src="html5gallery/html5gallery.js"></script>
+
+
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<!--script type="text/javascript" src="engine1/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
 </head>
 
 <body>
