@@ -18,7 +18,7 @@
     <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Galerie </h1>
 <br/>
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proben - Kampf der Orchester 2014</h2>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proben - Kampf der Orchester 2014</h3>
 
 
 <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
@@ -125,8 +125,7 @@
 <p>&nbsp;</p>
 	<p>&nbsp;</p>
     
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage Days Openair 2013</h2>
-	<p>&nbsp;</p>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage Days Openair 2013</h3>
 
 
 <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
