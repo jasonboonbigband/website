@@ -54,8 +54,8 @@ Mic Schaffner(Schlagzeug)
   Ingeborg Oosterhuis (Backing Vocal)<br />
   Bianca Arndt (Backing Vocal)<br />
   Tanja Wälchli (Backing Vocal)
-<p>Jean-Luc Kühnis, Bea Kappeler (Choreographien)<br />
-  Auhefa Schacher (Materialschlacht, Kostüme und gute Fee)
+<p>Bea Kappeler, Jean-Luc Kühnis (Choreographien)<br />
+  Ahuefa Schacher (Materialschlacht, Kostüme und gute Fee)
   <br />
 </div>
 
