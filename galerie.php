@@ -18,7 +18,7 @@
     <h1> Galerie </h1>
 
 
-    <p>Proben für Kampf der Orchester 2014</p>
+<h2>Stage Days Openair 2013</h2>
 
 
 <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
@@ -122,10 +122,19 @@
 	<!-- End WOWSlider.com BODY section -->	
 
 
-
+<p>&nbsp;</p>
+	<p>&nbsp;</p>
+    
+<h2>Stage Days Openair 2013</h2>
+	<p>&nbsp;</p>
+    
+<p>&nbsp;</p>
+	<p>&nbsp;</p>
 
 <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-	<div id="wowslider-container1">
+	<div id="wowslider-container1">
+
+	
 	<div class="ws_images"><ul>
 		<li><img src="data1/images/img_6260.jpg" alt="IMG_6260" title="IMG_6260" id="wows1_0"/></li>
 		<li><img src="data1/images/img_6092.jpg" alt="IMG_6092" title="IMG_6092" id="wows1_1"/></li>
@@ -230,11 +239,16 @@
 		<a href="#" title="IMG_6663"><img src="data1/tooltips/img_6663.jpg" alt="" /></a>
 	</div>
 </div>
-<span class="wsl"><a href="http://wowslider.com/vu">image carousel</a> by WOWSlider.com v7.2</span>
-	<div class="ws_shadow"></div>
-	</div>	
-	<script type="text/javascript" src="engine1/wowslider.js"></script>
-	<script type="text/javascript" src="engine1/script.js"></script>
+<span class="wsl"><a href="http://wowslider.com/vu">image carousel</a> by WOWSlider.com v7.2</span>
+
+	<div class="ws_shadow"></div>
+
+	</div>	
+
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+
+	<script type="text/javascript" src="engine1/script.js"></script>
+
 	<!-- End WOWSlider.com BODY section -->
 
 
