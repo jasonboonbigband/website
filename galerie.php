@@ -19,6 +19,8 @@
 
 
     <p>Proben für Kampf der Orchester 2014</p>
+
+
 <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
 	<div id="wowslider-container0">
 	<div class="ws_images"><ul>
@@ -111,12 +113,18 @@
 		<a href="#" title="e928l581k1085"><img src="data0/tooltips/e928l581k1085.jpg" alt="" /></a>
 	</div>
 </div>
+
 <span class="wsl"><a href="http://wowslider.com/vu">image carousel</a> by WOWSlider.com v7.2</span>
 	<div class="ws_shadow"></div>
 	</div>	
 	<script type="text/javascript" src="engine0/wowslider.js"></script>
 	<script type="text/javascript" src="engine0/script.js"></script>
-	<!-- End WOWSlider.com BODY section -->	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<!-- End WOWSlider.com BODY section -->	
+
+
+
+
+<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
 	<div id="wowslider-container1">
 	<div class="ws_images"><ul>
 		<li><img src="data1/images/img_6260.jpg" alt="IMG_6260" title="IMG_6260" id="wows1_0"/></li>
@@ -228,6 +236,8 @@
 	<script type="text/javascript" src="engine1/wowslider.js"></script>
 	<script type="text/javascript" src="engine1/script.js"></script>
 	<!-- End WOWSlider.com BODY section -->
+
+
     <p>&nbsp;</p>
   </div>
 
