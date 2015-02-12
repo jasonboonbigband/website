@@ -15,7 +15,7 @@
 
    
  	 <h2>Herzlich Willkommen bei der JBBB!</h2><br />
-     <img src="images/boons_kdo.png" width="400" />
+     <img src="images/boons_kdo.jpg" width="400" />
 
   	 <p>Den "Kampf der Orchester" haben wir nicht gewonnen, doch er ist noch nicht vorbei. <br/>
      Wir haben Melodia Goldach zu einem musikalischen Battle herausgefordert und tragen diesen am Am 4. Juli 2015 aus. Bald gibt's hier mehr Infos.<br/><br />
