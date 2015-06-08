@@ -16,11 +16,22 @@
    
  	 <h2>Herzlich Willkommen bei der JBBB!</h2><br />
      <img src="images/boons_kdo.jpg" width="450" /> <br/>
-
-  	 <p>Den "Kampf der Orchester" haben wir nicht gewonnen, doch er ist noch nicht vorbei. <br/>
-     Wir haben Melodia Goldach zu einem musikalischen Battle herausgefordert und tragen diesen am Am 4. Juli 2015 aus. Bald gibt's hier mehr Infos.<br/><br />
+     <p>
+	 N&auml;chste Auftritte:
+	 </p>
+	 <p>
+	 <b>Swing Night, 13. Juni 2015</b><br/>
+	 Swing Night auf Schloss Sargans: Wieder einmal hat die Jason Boon Bigband die Ehre, mit Patric Scott und weiteren fantastischen S&auml;ngerinnen und S&auml;ngern 
+	 auf der B&uuml;hne zu stehen. Sie erwartet zus&auml;tzlich zu grooviger Musik und sch&ouml;ner Kulisse auch noch ein 4-G&auml;nge-Gourmet-Men&uuml;:
+	  <a href="http://www.schlosssargans.com/aktuell/swing-night/index.htm">Reservation</a>
+	 </p>
+  	 <p>
+  	 <b>Bigband Battle, 4. Juli 2015</b><br/>
+  	 Den "Kampf der Orchester" haben wir nicht gewonnen, doch er ist noch nicht vorbei. <br/>
+     Wir haben Melodia Goldach zu einem musikalischen Battle herausgefordert und tragen diesen am 4. Juli 2015 aus in der <a href="https://www.google.ch/maps/place/Sporthalle+Ruebisbach/@47.462149,8.577836,17z/data=!3m1!4b1!4m2!3m1!1s0x479a9fe77ba9b39f:0xa2a9212aaad34ad9">Ruebisbach-Halle</a> in Kloten.
+     Mehr Informationen und Ticket-Reservationen unter <a href="http://www.bigbandbattle.ch">http://www.bigbandbattle.ch</a><br/><br />
      
-     Gerne machen wir auch Ihr Event zu einem unvergesslichen Anlass und freuen uns über Ihre <a href="http://jbbb.ch/kontakt.php">Kontaktaufnahme</a>.
+     Gerne machen wir auch Ihr Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="http://jbbb.ch/kontakt.php">Kontaktaufnahme</a>.
      
 </p>
       <p></p>
