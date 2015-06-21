@@ -19,12 +19,6 @@
      <p>
 	 N&auml;chste Auftritte:
 	 </p>
-	 <p>
-	 <b>Swing Night, 13. Juni 2015</b><br/>
-	 Swing Night auf Schloss Sargans: Wieder einmal hat die Jason Boon Bigband die Ehre, mit Patric Scott und weiteren fantastischen S&auml;ngerinnen und S&auml;ngern 
-	 auf der B&uuml;hne zu stehen. Sie erwartet zus&auml;tzlich zu grooviger Musik und sch&ouml;ner Kulisse auch noch ein 4-G&auml;nge-Gourmet-Men&uuml;:
-	  <a href="http://www.schlosssargans.com/aktuell/swing-night/index.htm">Reservation</a>
-	 </p>
   	 <p>
   	 <b>Bigband Battle, 4. Juli 2015</b><br/>
   	 Den "Kampf der Orchester" haben wir nicht gewonnen, doch er ist noch nicht vorbei. <br/>
