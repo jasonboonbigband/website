@@ -23,8 +23,7 @@
   	 <b>Bigband Battle, 4. Juli 2015</b><br/>
   	 <font color="red">ACHTUNG: Ge&auml;nderte Location: Statt in in der Ruebisbach Halle findet der Battle im <b>Freibad Schluefweg</b> statt!</font><br />
   	 Den "Kampf der Orchester" haben wir nicht gewonnen, doch er ist noch nicht vorbei. <br/>
-     Wir haben Melodia Goldach zu einem musikalischen Battle herausgefordert und tragen diesen am 4. Juli 2015 aus, im <a href="https://www.google.ch/maps/place/Hallen+und+Freibad/@47.4435998,8.5830239,19z/data=!4m7!1m4!3m3!1s0x479a9ff5c45ea0bd:0x6ab5a10dc2588d64!2sSchluefweg,+8302+Kloten!3b1!3m1!1s0x0000000000000000:0xcf53e58cfae9e302?hl=de">Freibad Schluefweg</a> in Kloten.
-     Mehr Informationen und Ticket-Reservationen unter <a href="http://www.bigbandbattle.ch">http://www.bigbandbattle.ch</a><br/><br />
+     Wir haben Melodia Goldach zu einem musikalischen Battle herausgefordert und tragen diesen am 4. Juli 2015 ca. 19:30 Uhr aus, im <a href="https://www.google.ch/maps/place/Hallen+und+Freibad/@47.4435998,8.5830239,19z/data=!4m7!1m4!3m3!1s0x479a9ff5c45ea0bd:0x6ab5a10dc2588d64!2sSchluefweg,+8302+Kloten!3b1!3m1!1s0x0000000000000000:0xcf53e58cfae9e302?hl=de">Freibad Schluefweg</a> in Kloten.
      
      Gerne machen wir auch Ihr Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="http://jbbb.ch/kontakt.php">Kontaktaufnahme</a>.
      
