@@ -22,9 +22,8 @@
   	 <p>
   	 <b>QrasS - 15 Jahre Querschleger!</b><br/>
   	 
-  	Die <a href="http://www.qerschleger.ch/">Querschleger</a>feiern ihr 15-j&auml;hriges Bestehen mit einer Jubil&auml;ums-show und es freut uns sehr, dass die JBBB wieder mit dabei sein darf! 
-Die ultimative Party steigt am 24. Oktober 2015, ab 18 Uhr im Stadtsaal Schluefweg in Kloten. Eintritt: 15 .- <br><a href="http://www.querschleger.ch/2015/08/qrass/"><b>Weitere Infos und Platzreservation.</a></b>
-
+  	Die <a href="http://www.querschleger.ch/">Querschleger</a> feiern ihr 15-j&auml;hriges Bestehen mit einer Jubil&auml;ums-show und es freut uns sehr, dass die JBBB wieder mit dabei sein darf! 
+Die ultimative Party steigt am 24. Oktober 2015, ab 18 Uhr im Stadtsaal Schluefweg in Kloten. Eintritt: 15 .- <br><a href="http://www.querschleger.ch/2015/08/qrass/"><br /><b>Weitere Infos und Platzreservation.</a></b>
 
 </p>
       <p></p>
