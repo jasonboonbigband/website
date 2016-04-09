@@ -17,7 +17,7 @@
  	 <h2>Herzlich Willkommen bei der JBBB!</h2><br />
      <img src="images/boons_kdo.jpg" width="450" /> <br/>
      <p>
-	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="http://jbbb.ch/kontakt.php">Kontaktaufnahme</a>.
+	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="kontakt.php">Kontaktaufnahme</a>.
 	 </p>
 
   	
