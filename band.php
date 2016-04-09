@@ -21,7 +21,6 @@
 Martin B&uuml;rgi (Altsax)<br />
 Isabel Schacher (Altsax)<br/>
 Mats Wilhelm (Altsax) <br />
-<br />
 Jasmin Baumann (Tenorsax)<br />
 Sandra Roth (Tenorsax)<br />
 Els van Es (Baritonsax) </p>
