@@ -38,6 +38,9 @@ git commit -m '<describe your updates here>'
 git push origin master
 ```
 
+*View current master online*
+http://develop.jbbb.ch
+
 ### make changes live
 a cronjob on the webserver checks out the live branch every minute using a read-only deploy-key
 
