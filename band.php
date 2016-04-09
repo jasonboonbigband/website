@@ -31,18 +31,17 @@ Anita Steiner (Trompete)<br />
 Daniel Wegmann (Trompete)<br />
 J&ouml;rg M&auml;der (Trompete)<br />
 Hanspeter St&auml;delin (Trompete)<br />
-<br />
 </p>
 <p> Stephan W&uuml;thrich (Posaune, Gesang)<br />
 Christian St&auml;delin (Posaune) <br/>
 Marcel L&uuml;thi (Posaune)<br/>
 Patrick W&uuml;thrich (Posaune)<br />
-
+</p>
 <p>
 Ursula Zollinger (Klavier)<br />
 Felix K&uuml;bler(Bass)<br />
 Beat Keller (Gitarre)<br />
-
+</p>
 
 </div>
 
