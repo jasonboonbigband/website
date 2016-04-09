@@ -15,48 +15,35 @@
 <div class ="othercontent">
 <h1> Band </h1>
 
-<p>Martin Schacher (Leader)</p>
-<p>Patric Scott (Gesang)<br />
-  Cornelia Boesch (Gesang)
-</p>
+<p>Stefan Mens (Leader)</p>
 
 <p>
 Martin B&uuml;rgi (Altsax)<br />
-Anina Widmer (Altsax)
+Isabel Schacher (Altsax)<br/>
+Mats Wilhelm (Altsax) <br />
 <br />
 Jasmin Baumann (Tenorsax)<br />
 Sandra Roth (Tenorsax)<br />
 Els van Es (Baritonsax) </p>
 <p>
-René Halbheer (Trompete)<br />
+Ren&eacute; Halbheer (Trompete)<br />
 Anita Steiner (Trompete)<br />
 Daniel Wegmann (Trompete)<br />
 J&ouml;rg M&auml;der (Trompete)<br />
 Hanspeter St&auml;delin (Trompete)<br />
-Mario Karrer (Trompete)
 <br />
 </p>
 <p> Stephan W&uuml;thrich (Posaune, Gesang)<br />
-Christof Gr&uuml;tter (Posaune)<br />
-Isabel Schacher (Posaune)
-<br />
-Christian St&auml;delin (Posaune)</p>
+Christian St&auml;delin (Posaune) <br/>
+Marcel L&uuml;thi (Posaune)<br/>
+Patrick W&uuml;thrich (Posaune)<br />
+
 <p>
 Ursula Zollinger (Klavier)<br />
-Felix K&uuml;bler / Colin Morton (Bass)<br />
-Beat Keller / David Beer (Gitarre)<br />
-Mic Schaffner(Schlagzeug)
-<p>Amanda Scheiwiller (Percussion)
-  <br />
-  Philippe Lehner (Percussion)<br />
-  Sandro Pedrett (Percussion)<br />
-  <br />
-  Ingeborg Oosterhuis (Backing Vocal)<br />
-  Bianca Arndt (Backing Vocal)<br />
-  Tanja Wälchli (Backing Vocal)
-<p>Bea Kappeler, Jean-Luc Kühnis (Choreographien)<br />
-  Ahuefa Schacher (Materialschlacht, Kostüme und gute Fee)
-  <br />
+Felix K&uuml;bler(Bass)<br />
+Beat Keller (Gitarre)<br />
+
+
 </div>
 
 </div>

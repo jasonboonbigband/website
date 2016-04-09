@@ -17,16 +17,10 @@
  	 <h2>Herzlich Willkommen bei der JBBB!</h2><br />
      <img src="images/boons_kdo.jpg" width="450" /> <br/>
      <p>
-	 N&auml;chste Auftritte:
+	 Gerne machen wir auch Ihr Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="http://jbbb.ch/kontakt.php">Kontaktaufnahme</a>.
 	 </p>
-  	 <p>
-  	 <b>QrasS - 15 Jahre Querschleger!</b><br/>
-  	 
-  	Die <a href="http://www.querschleger.ch/">Querschleger</a> feiern ihr 15-j&auml;hriges Bestehen mit einer Jubil&auml;umsshow und es freut uns sehr, dass die JBBB wieder mit dabei sein darf! 
-Die ultimative Party steigt am 24. Oktober 2015 im Stadtsaal Schluefweg in Kloten. <br />Eintritt: 15 .- <br />T&uuml;r&ouml;ffnung &amp; Verpflegung ab 18 Uhr, Show ab 20 Uhr<br><a href="http://www.querschleger.ch/2015/08/qrass/"><br /><b>Weitere Infos und Platzreservation.</a></b>
 
-</p>
-      <p></p>
+  	
 
       <p>&nbsp;</p>
       <p>&nbsp;</p>
