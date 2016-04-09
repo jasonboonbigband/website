@@ -26,7 +26,6 @@ Sandra Roth (Tenorsax)<br />
 Els van Es (Baritonsax) </p>
 <p>
 Ren&eacute; Halbheer (Trompete)<br />
-Anita Steiner (Trompete)<br />
 Daniel Wegmann (Trompete)<br />
 J&ouml;rg M&auml;der (Trompete)<br />
 Hanspeter St&auml;delin (Trompete)<br />
