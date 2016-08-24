@@ -20,18 +20,18 @@
      <p>
      <b>Umweltfest Kloten</b><br/>
      <table border="0">
-  		<tr><td valign="top" >Wann:</td><td>17.September 2016</td></tr>
-		<tr><td valign="top" >Zeit:</td><td>18:00 bis 18:45</td></tr>
-     	<tr><td valign="top" >Wo:</td><td>Bei sch&ouml;nem Wetter  auf dem ref. Kirchenareal in Kloten, <a href="https://www.google.ch/maps/place/Kirchgasse+30,+8302+Kloten/@47.4524989,8.5814072,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9fee1c410761:0x6a7e5c9f9f04be47!8m2!3d47.4524953!4d8.5835959">Kirchgasse 30</a>.</td></tr>
+  		<tr><td valign="top" align="right">Wann:</td><td>17.September 2016</td></tr>
+		<tr><td valign="top" align="right">Zeit:</td><td>18:00 bis 18:45</td></tr>
+     	<tr><td valign="top" align="right">Wo:</td><td>Bei sch&ouml;nem Wetter  auf dem ref. Kirchenareal in Kloten, <a href="https://www.google.ch/maps/place/Kirchgasse+30,+8302+Kloten/@47.4524989,8.5814072,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9fee1c410761:0x6a7e5c9f9f04be47!8m2!3d47.4524953!4d8.5835959">Kirchgasse 30</a>.</td></tr>
     	<tr><td></td><td>Bei schlechter Witterung findet das Konzert in der reformierten Kirche oder im Kirchgemeindesaal statt. </td></tr>     
      </table>
      </p>
      <p>
      <b>JBBB &amp; <a href="http://www.thedarnettes.com/">The Darnettes</a></b><br/>
       <table border="0">
-  		<tr><td valign="top" >Wann:</td><td>5.November 2016</td></tr>
-  		<tr><td valign="top" >Zeit:</td><td>tbd</td></tr>
-  		<tr><td valign="top" >Wo:</td><td><a href="https://www.google.ch/maps/place/Kongresszentrum+gate27/@47.5038838,8.7262943,17z/data=!3m1!4b1!4m5!3m4!1s0x479a99789c6b882d:0xdf3838c311a34cb6!8m2!3d47.5038802!4d8.728483">Gate 27, Winterthur</a></td></tr>
+  		<tr><td valign="top" align="right">Wann:</td><td>5.November 2016</td></tr>
+  		<tr><td valign="top" align="right">Zeit:</td><td>tbd</td></tr>
+  		<tr><td valign="top" align="right">Wo:</td><td><a href="https://www.google.ch/maps/place/Kongresszentrum+gate27/@47.5038838,8.7262943,17z/data=!3m1!4b1!4m5!3m4!1s0x479a99789c6b882d:0xdf3838c311a34cb6!8m2!3d47.5038802!4d8.728483">Gate 27, Winterthur</a></td></tr>
   	</table>
      Weitere Details folgen!
      </p>
