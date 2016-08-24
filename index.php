@@ -18,20 +18,21 @@
      <img src="images/boons_kdo.jpg" width="450" /> <br/>
      <h3>N&auml;chste Auftritte</h3>
      <p>
-     <b>Umweltfest Kloten</b><br/><br/>
+     <b>Umweltfest Kloten</b><br/>
      Wann: 17.September 2016<br/>
      Zeit: 18:00 bis 18:45 <br/>
-     Wo: Bei sch&ouml;nem Wetter  auf dem ref. Kirchenareal in Kloten (<a href="https://www.google.ch/maps/place/Kirchgasse+30,+8302+Kloten/@47.4524989,8.5814072,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9fee1c410761:0x6a7e5c9f9f04be47!8m2!3d47.4524953!4d8.5835959">Kirchgasse 30</a>)<br/>
+     Wo: Bei sch&ouml;nem Wetter  auf dem ref. Kirchenareal in Kloten (<a href="https://www.google.ch/maps/place/Kirchgasse+30,+8302+Kloten/@47.4524989,8.5814072,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9fee1c410761:0x6a7e5c9f9f04be47!8m2!3d47.4524953!4d8.5835959">Kirchgasse 30</a>).<br/>
      Bei schlechter Witterung findet das Konzert in der reformierten Kirche oder im Kirchgemeindesaal statt. 
      
      </p>
      <p>
-     <b>JBBB &amp; <a href="http://www.thedarnettes.com/">The Darnettes</a></b><br/><br/>
+     <b>JBBB &amp; <a href="http://www.thedarnettes.com/">The Darnettes</a></b><br/>
      Wann: 5.November 2016<br/>
      Zeit: tbd <br/>
      Wo: Winterthur <br/>
      Weitere Details folgen!
-     </p><p></p>
+     </p>
+     <br/><br/>
      <p>
 	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="kontakt.php">Kontaktaufnahme</a>.
 	 </p>
