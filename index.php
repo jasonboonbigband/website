@@ -19,10 +19,12 @@
      <h3>N&auml;chste Auftritte</h3>
      <p>
      <b>Umweltfest Kloten</b><br/>
-     Wann: 17.September 2016<br/>
-     Zeit: 18:00 bis 18:45 <br/>
-     Wo: Bei sch&ouml;nem Wetter  auf dem ref. Kirchenareal in Kloten (<a href="https://www.google.ch/maps/place/Kirchgasse+30,+8302+Kloten/@47.4524989,8.5814072,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9fee1c410761:0x6a7e5c9f9f04be47!8m2!3d47.4524953!4d8.5835959">Kirchgasse 30</a>).<br/>
-     Bei schlechter Witterung findet das Konzert in der reformierten Kirche oder im Kirchgemeindesaal statt. 
+     <table border="0">
+  		<tr><td><i>Wann</i>:</td><td>17.September 2016</td></tr>
+		<tr><td><i>Zeit</i>:</td><td>18:00 bis 18:45</td></tr>
+     	<tr><td><i>Wo</i>:</td><td>Bei sch&ouml;nem Wetter  auf dem ref. Kirchenareal in Kloten (<a href="https://www.google.ch/maps/place/Kirchgasse+30,+8302+Kloten/@47.4524989,8.5814072,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9fee1c410761:0x6a7e5c9f9f04be47!8m2!3d47.4524953!4d8.5835959">Kirchgasse 30</a>).</td></tr>
+    	 <tr><td></td><td>Bei schlechter Witterung findet das Konzert in der reformierten Kirche oder im Kirchgemeindesaal statt. </td></tr>
+     
      
      </p>
      <p>
