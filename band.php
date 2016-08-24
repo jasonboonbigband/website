@@ -31,14 +31,15 @@ J&ouml;rg M&auml;der (Trompete)<br />
 Hanspeter St&auml;delin (Trompete)<br />
 </p>
 <p> Stephan W&uuml;thrich (Posaune, Gesang)<br />
-Christian St&auml;delin (Posaune) <br/>
 Marcel L&uuml;thi (Posaune)<br/>
-Patrick W&uuml;thrich (Posaune)<br />
+Reto Gloor (Posaune)<br />
+Christian St&auml;delin (Bassposaune) <br/>
 </p>
 <p>
 Ursula Zollinger (Klavier)<br />
 Felix K&uuml;bler(Bass)<br />
 Beat Keller (Gitarre)<br />
+Marco Zimmermann (Schlagzeug) <br/>
 </p>
 
 </div>
