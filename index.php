@@ -35,7 +35,7 @@
   	</table>
      Weitere Details folgen!
      </p>
-     <br/><br/>
+     <br/>
      <p>
 	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="kontakt.php">Kontaktaufnahme</a>.
 	 </p>
