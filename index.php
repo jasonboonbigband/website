@@ -18,7 +18,7 @@
      <img src="images/boons_kdo.jpg" width="450" /> <br/>
      <h3>N&auml;chste Auftritte</h3>
      <p>
-     <b>Umweltfest Kloten</b><br/>
+     <b><a href="http://www.umweltfestival.ch/">Umweltfestival Kloten</a></b><br/>
      <table border="0">
   		<tr><td valign="top" align="right">Wann:</td><td>17.September 2016</td></tr>
 		<tr><td valign="top" align="right">Zeit:</td><td>18:00 bis 18:45</td></tr>
@@ -30,7 +30,7 @@
      <b>JBBB &amp; <a href="http://www.thedarnettes.com/">The Darnettes</a></b><br/>
       <table border="0">
   		<tr><td valign="top" align="right">Wann:</td><td>5.November 2016</td></tr>
-  		<tr><td valign="top" align="right">Zeit:</td><td>tbd</td></tr>
+  		<tr><td valign="top" align="right">Zeit:</td><td>Start 20:00, Türöffnung ab 19:00, Barbetrieb bis 23:00</td></tr>
   		<tr><td valign="top" align="right">Wo:</td><td><a href="https://www.google.ch/maps/place/Kongresszentrum+gate27/@47.5038838,8.7262943,17z/data=!3m1!4b1!4m5!3m4!1s0x479a99789c6b882d:0xdf3838c311a34cb6!8m2!3d47.5038802!4d8.728483">Gate 27, Winterthur</a></td></tr>
   	</table>
      Weitere Details folgen!

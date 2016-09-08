@@ -29,6 +29,7 @@ Ren&eacute; Halbheer (Trompete)<br />
 Daniel Wegmann (Trompete)<br />
 J&ouml;rg M&auml;der (Trompete)<br />
 Hanspeter St&auml;delin (Trompete)<br />
+Anita Steiner (Trompete)<br/>
 </p>
 <p> Stephan W&uuml;thrich (Posaune, Gesang)<br />
 Marcel L&uuml;thi (Posaune)<br/>
