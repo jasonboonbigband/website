@@ -33,7 +33,7 @@
   		<tr><td valign="top" align="right">Zeit:</td><td>Start 20:00, T&uuml;r&ouml;ffnung ab 19:00, Barbetrieb bis 23:00</td></tr>
   		<tr><td valign="top" align="right">Wo:</td><td><a href="https://www.google.ch/maps/place/Kongresszentrum+gate27/@47.5038838,8.7262943,17z/data=!3m1!4b1!4m5!3m4!1s0x479a99789c6b882d:0xdf3838c311a34cb6!8m2!3d47.5038802!4d8.728483">Gate 27, Winterthur</a></td></tr>
   		<tr><td valign="top" align="right">Eintritt:</td><td>35.-/20.-</td></tr> 		
-  		<tr><td valign="top" align="left" colspan="2">Hier geht's zur <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDIkVV9nHeBvk5WFHl50QWWGnlulORihvx3y_2QIQJfy7qRw/viewform">Ticketreservation</a>.</td></tr>
+  		<tr><td valign="top" align="left" colspan="2">Tickets sind an der Abendkasse erh&auml;ltlich.</td></tr>
   	</table>
   	</p>
      <br/>
