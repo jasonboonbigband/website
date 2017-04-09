@@ -17,23 +17,22 @@
  	 <h2>Herzlich Willkommen bei der JBBB!</h2><br />
      <img src="images/boons_kdo.jpg" width="450" /> <br/>
      <h3>N&auml;chste Auftritte</h3>
-  <!--     <p>
-     <b><a href="http://www.umweltfestival.ch/">Umweltfestival Kloten</a></b><br/>
-     <table border="0">
-  		<tr><td valign="top" align="right">Wann:</td><td>17.September 2016</td></tr>
-		<tr><td valign="top" align="right">Zeit:</td><td>18:00 bis 18:45</td></tr>
-     	<tr><td valign="top" align="right">Wo:</td><td>Bei sch&ouml;nem Wetter  auf dem reformierten Kirchenareal in Kloten, <a href="https://www.google.ch/maps/place/Kirchgasse+30,+8302+Kloten/@47.4524989,8.5814072,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9fee1c410761:0x6a7e5c9f9f04be47!8m2!3d47.4524953!4d8.5835959">Kirchgasse 30</a>.</td></tr>
-    	<tr><td></td><td>Bei schlechter Witterung findet das Konzert im Kirchgemeindesaal statt. </td></tr>     
-     </table>
-     </p>-->
      <p>
-     <b>JBBB &amp; <a href="http://www.thedarnettes.com/">The Darnettes</a></b><br/>
+     <b><a href="http://www.waedi17.ch">OTV Wettspiele W&auml;denswil</a></b><br/>
+     <table border="0">
+  	<tr><td valign="top" align="right">Wann:</td><td>24.Juni 2017</td></tr>
+		
+    	<tr><td></td><td>Hiefür wird noch ein Actsponsor gesucht. Bei Interesse bitte melden an info@jbbb.ch</td></tr>     
+     </table>
+     </p>
+     <p>
+     <b><a href="https://www.klotenerstadtfest.ch/">Stadtfest Kloten</a></b><br/>
       <table border="0">
-  		<tr><td valign="top" align="right">Wann:</td><td>5.November 2016</td></tr>
-  		<tr><td valign="top" align="right">Zeit:</td><td>Start 20:00, T&uuml;r&ouml;ffnung ab 19:00, Barbetrieb bis 23:00</td></tr>
-  		<tr><td valign="top" align="right">Wo:</td><td><a href="https://www.google.ch/maps/place/Kongresszentrum+gate27/@47.5038838,8.7262943,17z/data=!3m1!4b1!4m5!3m4!1s0x479a99789c6b882d:0xdf3838c311a34cb6!8m2!3d47.5038802!4d8.728483">Gate 27, Winterthur</a></td></tr>
+  		<tr><td valign="top" align="right">Wann:</td><td>1.Juli 2017</td></tr>
+  		<tr><td valign="top" align="right">Zeit:</td><td>Wird noch bekannt gegeben</td></tr>
+  		<!--<tr><td valign="top" align="right">Wo:</td><td><a href="https://www.google.ch/maps/place/Kongresszentrum+gate27/@47.5038838,8.7262943,17z/data=!3m1!4b1!4m5!3m4!1s0x479a99789c6b882d:0xdf3838c311a34cb6!8m2!3d47.5038802!4d8.728483">Gate 27, Winterthur</a></td></tr>
   		<tr><td valign="top" align="right">Eintritt:</td><td>35.-/20.-</td></tr> 		
-  		<tr><td valign="top" align="left" colspan="2">Tickets sind an der Abendkasse erh&auml;ltlich.</td></tr>
+  		<tr><td valign="top" align="left" colspan="2">Tickets sind an der Abendkasse erh&auml;ltlich.</td></tr>-->
   	</table>
   	</p>
      <br/>
