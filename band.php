@@ -16,9 +16,10 @@
 <h1> Band </h1>
     <p>
 Jason Boon Bigband, das sind 20 ambitionierte Amateur- und Berufsmusiker, welche seit über 10 Jahren zusammen Musik machen.
-Wir spielen ein anspruchsvolles Repertoire aus Jazz, Funk und Pop.<br/>
+        Wir spielen ein anspruchsvolles Repertoire aus Jazz, Funk und Pop.</p><p>
 Bisherige Highlights aus zehn Jahren Bandgeschichte: Swingnights Sargans, Kampf der Orchester, Stagedays Kloten und diverse legendäre Bigband-Battles.
     </p>
+    <br/><br/>
     <p>Stefan Mens (Leader)</p>
 
 <p>
