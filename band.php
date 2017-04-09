@@ -19,7 +19,7 @@
 
 <p>
 Martin B&uuml;rgi (Altsax)<br />
-Isabel Schacher (Altsax)<br/>
+Rita Stöcklin (Altsax)<br/>
 Mats Wilhelm (Altsax) <br />
 Jasmin Baumann (Tenorsax)<br />
 Sandra Roth (Tenorsax)<br />
@@ -31,13 +31,11 @@ J&ouml;rg M&auml;der (Trompete)<br />
 Hanspeter St&auml;delin (Trompete)<br />
 Anita Steiner (Trompete)<br/>
 </p>
-<p> Stephan W&uuml;thrich (Posaune, Gesang)<br />
+<p>
 Marcel L&uuml;thi (Posaune)<br/>
-Reto Gloor (Posaune)<br />
 Christian St&auml;delin (Bassposaune) <br/>
 </p>
 <p>
-Ursula Zollinger (Klavier)<br />
 Felix K&uuml;bler(Bass)<br />
 Beat Keller (Gitarre)<br />
 Marco Zimmermann (Schlagzeug) <br/>
