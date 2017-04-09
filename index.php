@@ -43,7 +43,7 @@
 	  Momentan suchen wir in den folgenden Registern Verstärkung: 
 		  <li>
 			  <ul>Posaune</ul>
-			  <ul> Piano</ul>
+			  <ul>Piano</ul>
 		  </li>
 	  </p>
   	
