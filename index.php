@@ -40,7 +40,8 @@
 	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="kontakt.php">Kontaktaufnahme</a>.
 	 </p>
 	  <p>
-	  Musiker gesucht!<br/>Momentan suchen wir in den folgenden Registern Verstärkung: Posaune, Piano
+	  <h3>Musiker gesucht</h3>
+		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune, Piano
 	  </p>
   	
 
