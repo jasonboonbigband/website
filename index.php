@@ -18,20 +18,12 @@
      <img src="images/boons_kdo.jpg" width="450" /> <br/>
      <h3>N&auml;chste Auftritte</h3>
      <p>
-     <b><a href="http://www.waedi17.ch">OTV Wettspiele W&auml;denswil</a></b><br/>
-     <table border="0">
-  	<tr><td valign="top" align="right">Wann:</td><td>24.Juni 2017</td></tr>
-		
-    	<tr><td></td><td>Hiefür wird noch ein Actsponsor gesucht. Bei Interesse bitte melden an info@jbbb.ch</td></tr>     
-     </table>
-     </p>
-     <p>
      <b><a href="https://www.klotenerstadtfest.ch/">Stadtfest Kloten</a></b><br/>
       <table border="0">
   		<tr><td valign="top" align="right">Wann:</td><td>1.Juli 2017</td></tr>
-  		<tr><td valign="top" align="right">Zeit:</td><td>Wird noch bekannt gegeben</td></tr>
-  		<!--<tr><td valign="top" align="right">Wo:</td><td><a href="https://www.google.ch/maps/place/Kongresszentrum+gate27/@47.5038838,8.7262943,17z/data=!3m1!4b1!4m5!3m4!1s0x479a99789c6b882d:0xdf3838c311a34cb6!8m2!3d47.5038802!4d8.728483">Gate 27, Winterthur</a></td></tr>
-  		<tr><td valign="top" align="right">Eintritt:</td><td>35.-/20.-</td></tr> 		
+  		<tr><td valign="top" align="right">Zeit:</td><td>18:00-19:00</td></tr>
+  		<tr><td valign="top" align="right">Wo:</td><td>Eventbühne</a></td></tr>
+  		<!-- <tr><td valign="top" align="right">Eintritt:</td><td>35.-/20.-</td></tr> 		
   		<tr><td valign="top" align="left" colspan="2">Tickets sind an der Abendkasse erh&auml;ltlich.</td></tr>-->
   	</table>
   	</p>
