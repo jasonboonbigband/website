@@ -18,7 +18,7 @@
      <img src="images/boons_kdo.jpg" width="450" /> <br/>
      <h3>N&auml;chste Auftritte</h3>
      <p>
-     <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigband (Stans)</a> vs JBBB</b><br/>
+     <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
       <table border="0">
   		<tr><td valign="top" align="right">Wann:</td><td>26./27. Januar 2018</td></tr>
   		<!---<tr><td valign="top" align="right">Zeit:</td><td>18:00-19:00</td></tr>
