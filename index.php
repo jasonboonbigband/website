@@ -18,13 +18,13 @@
      <img src="images/boons_kdo.jpg" width="450" /> <br/>
      <h3>N&auml;chste Auftritte</h3>
      <p>
-     <b><a href="https://www.klotenerstadtfest.ch/">Stadtfest Kloten</a></b><br/>
+     <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigband (Stans)</a> vs JBBB</b><br/>
       <table border="0">
-  		<tr><td valign="top" align="right">Wann:</td><td>1.Juli 2017</td></tr>
-  		<tr><td valign="top" align="right">Zeit:</td><td>18:00-19:00</td></tr>
-  		<tr><td valign="top" align="right">Wo:</td><td>Eventbühne</a></td></tr>
-  		<!-- <tr><td valign="top" align="right">Eintritt:</td><td>35.-/20.-</td></tr> 		
-  		<tr><td valign="top" align="left" colspan="2">Tickets sind an der Abendkasse erh&auml;ltlich.</td></tr>-->
+  		<tr><td valign="top" align="right">Wann:</td><td>26./27. Januar 2018</td></tr>
+  		<!---<tr><td valign="top" align="right">Zeit:</td><td>18:00-19:00</td></tr>
+  		<tr><td valign="top" align="right">Wo:</td><td>Eventbühne</a></td></tr>--->
+  		<!-- <tr><td valign="top" align="right">Eintritt:</td><td>35.-/20.-</td></tr> 	-->	
+  		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>
   	</table>
   	</p>
      <br/>
