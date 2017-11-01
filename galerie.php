@@ -18,72 +18,10 @@
     <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Galerie </h1>
 <br/>
 
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 Jahre JBBB</h3>
+
 	  
 	  
-<!-- Start WOWSlider.com BODY section -->
-<div id="wowslider-container2">
-<div class="ws_images"><ul>
-		<li><img src="data2/images/img_1279.jpg" alt="IMG_1279" title="IMG_1279" id="wows2_0"/></li>
-		<li><img src="data2/images/img_6313.jpg" alt="IMG_6313" title="IMG_6313" id="wows2_1"/></li>
-		<li><img src="data2/images/jbbb_021.jpg" alt="JBBB 021" title="JBBB 021" id="wows2_2"/></li>
-		<li><img src="data2/images/p1030253.jpg" alt="P1030253" title="P1030253" id="wows2_3"/></li>
-		<li><img src="data2/images/p1030254.jpg" alt="P1030254" title="P1030254" id="wows2_4"/></li>
-		<li><img src="data2/images/p1030257.jpg" alt="P1030257" title="P1030257" id="wows2_5"/></li>
-		<li><img src="data2/images/p1030263.jpg" alt="P1030263" title="P1030263" id="wows2_6"/></li>
-		<li><img src="data2/images/p1030272.jpg" alt="P1030272" title="P1030272" id="wows2_7"/></li>
-		<li><img src="data2/images/usu__nicu_407.jpg" alt="Usu & Nicu_407" title="Usu & Nicu_407" id="wows2_8"/></li>
-		<li><img src="data2/images/vlcsnap2016111414h44m48s13.png" alt="vlcsnap-2016-11-14-14h44m48s13" title="vlcsnap-2016-11-14-14h44m48s13" id="wows2_9"/></li>
-		<li><img src="data2/images/358_30409428829_6688_n.jpg" alt="358_30409428829_6688_n" title="358_30409428829_6688_n" id="wows2_10"/></li>
-		<li><img src="data2/images/2080162_pic_970x641.jpg" alt="2080162_pic_970x641" title="2080162_pic_970x641" id="wows2_11"/></li>
-		<li><img src="data2/images/10296480_10202899097531840_2539005309696029808_o.jpg" alt="10296480_10202899097531840_2539005309696029808_o" title="10296480_10202899097531840_2539005309696029808_o" id="wows2_12"/></li>
-		<li><img src="data2/images/10689986_10205555568675216_8344255722368419704_n.jpg" alt="10689986_10205555568675216_8344255722368419704_n" title="10689986_10205555568675216_8344255722368419704_n" id="wows2_13"/></li>
-		<li><img src="data2/images/10696267_850926251607886_6332871147106372721_n.jpg" alt="10696267_850926251607886_6332871147106372721_n" title="10696267_850926251607886_6332871147106372721_n" id="wows2_14"/></li>
-		<li><img src="data2/images/10703761_753122938079317_8184558080393157974_n.jpg" alt="10703761_753122938079317_8184558080393157974_n" title="10703761_753122938079317_8184558080393157974_n" id="wows2_15"/></li>
-		<li><img src="data2/images/b604r070i5770.jpg" alt="b604r070i5770" title="b604r070i5770" id="wows2_16"/></li>
-		<li><img src="data2/images/img_0673.jpg" alt="IMG_0673" title="IMG_0673" id="wows2_17"/></li>
-		<li><img src="data2/images/img_0674.jpg" alt="IMG_0674" title="IMG_0674" id="wows2_18"/></li>
-		<li><img src="data2/images/img_0947.jpg" alt="IMG_0947" title="IMG_0947" id="wows2_19"/></li>
-		<li><img src="data2/images/img_2158.jpg" alt="IMG_2158" title="IMG_2158" id="wows2_20"/></li>
-		<li><img src="data2/images/img_6260.jpg" alt="IMG_6260" title="IMG_6260" id="wows2_21"/></li>
-		<li><img src="data2/images/img_8308.jpg" alt="IMG_8308" title="IMG_8308" id="wows2_22"/></li>
-		<li><img src="data2/images/jst_5038.jpg" alt="JST_5038" title="JST_5038" id="wows2_23"/></li>
-		<li><a href="http://wowslider.net"><img src="data2/images/swingnight104.jpg" alt="slideshow javascript" title="Swingnight-104" id="wows2_24"/></a></li>
-		<li><img src="data2/images/usu__nicu_439.jpg" alt="Usu & Nicu_439" title="Usu & Nicu_439" id="wows2_25"/></li>
-	</ul></div>
-	<div class="ws_bullets"><div>
-		<a href="#" title="IMG_1279"><span><img src="data2/tooltips/img_1279.jpg" alt="IMG_1279"/>1</span></a>
-		<a href="#" title="IMG_6313"><span><img src="data2/tooltips/img_6313.jpg" alt="IMG_6313"/>2</span></a>
-		<a href="#" title="JBBB 021"><span><img src="data2/tooltips/jbbb_021.jpg" alt="JBBB 021"/>3</span></a>
-		<a href="#" title="P1030253"><span><img src="data2/tooltips/p1030253.jpg" alt="P1030253"/>4</span></a>
-		<a href="#" title="P1030254"><span><img src="data2/tooltips/p1030254.jpg" alt="P1030254"/>5</span></a>
-		<a href="#" title="P1030257"><span><img src="data2/tooltips/p1030257.jpg" alt="P1030257"/>6</span></a>
-		<a href="#" title="P1030263"><span><img src="data2/tooltips/p1030263.jpg" alt="P1030263"/>7</span></a>
-		<a href="#" title="P1030272"><span><img src="data2/tooltips/p1030272.jpg" alt="P1030272"/>8</span></a>
-		<a href="#" title="Usu & Nicu_407"><span><img src="data2/tooltips/usu__nicu_407.jpg" alt="Usu & Nicu_407"/>9</span></a>
-		<a href="#" title="vlcsnap-2016-11-14-14h44m48s13"><span><img src="data2/tooltips/vlcsnap2016111414h44m48s13.png" alt="vlcsnap-2016-11-14-14h44m48s13"/>10</span></a>
-		<a href="#" title="358_30409428829_6688_n"><span><img src="data2/tooltips/358_30409428829_6688_n.jpg" alt="358_30409428829_6688_n"/>11</span></a>
-		<a href="#" title="2080162_pic_970x641"><span><img src="data2/tooltips/2080162_pic_970x641.jpg" alt="2080162_pic_970x641"/>12</span></a>
-		<a href="#" title="10296480_10202899097531840_2539005309696029808_o"><span><img src="data2/tooltips/10296480_10202899097531840_2539005309696029808_o.jpg" alt="10296480_10202899097531840_2539005309696029808_o"/>13</span></a>
-		<a href="#" title="10689986_10205555568675216_8344255722368419704_n"><span><img src="data2/tooltips/10689986_10205555568675216_8344255722368419704_n.jpg" alt="10689986_10205555568675216_8344255722368419704_n"/>14</span></a>
-		<a href="#" title="10696267_850926251607886_6332871147106372721_n"><span><img src="data2/tooltips/10696267_850926251607886_6332871147106372721_n.jpg" alt="10696267_850926251607886_6332871147106372721_n"/>15</span></a>
-		<a href="#" title="10703761_753122938079317_8184558080393157974_n"><span><img src="data2/tooltips/10703761_753122938079317_8184558080393157974_n.jpg" alt="10703761_753122938079317_8184558080393157974_n"/>16</span></a>
-		<a href="#" title="b604r070i5770"><span><img src="data2/tooltips/b604r070i5770.jpg" alt="b604r070i5770"/>17</span></a>
-		<a href="#" title="IMG_0673"><span><img src="data2/tooltips/img_0673.jpg" alt="IMG_0673"/>18</span></a>
-		<a href="#" title="IMG_0674"><span><img src="data2/tooltips/img_0674.jpg" alt="IMG_0674"/>19</span></a>
-		<a href="#" title="IMG_0947"><span><img src="data2/tooltips/img_0947.jpg" alt="IMG_0947"/>20</span></a>
-		<a href="#" title="IMG_2158"><span><img src="data2/tooltips/img_2158.jpg" alt="IMG_2158"/>21</span></a>
-		<a href="#" title="IMG_6260"><span><img src="data2/tooltips/img_6260.jpg" alt="IMG_6260"/>22</span></a>
-		<a href="#" title="IMG_8308"><span><img src="data2/tooltips/img_8308.jpg" alt="IMG_8308"/>23</span></a>
-		<a href="#" title="JST_5038"><span><img src="data2/tooltips/jst_5038.jpg" alt="JST_5038"/>24</span></a>
-		<a href="#" title="Swingnight-104"><span><img src="data2/tooltips/swingnight104.jpg" alt="Swingnight-104"/>25</span></a>
-		<a href="#" title="Usu & Nicu_439"><span><img src="data2/tooltips/usu__nicu_439.jpg" alt="Usu & Nicu_439"/>26</span></a>
-	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery carousel</a> by WOWSlider.com v8.8m</div>
-<div class="ws_shadow"></div>
-</div>	
-<script type="text/javascript" src="engine2/wowslider.js"></script>
-<script type="text/javascript" src="engine2/script.js"></script>
-<!-- End WOWSlider.com BODY section -->	  
+
 	  
 
 	  
