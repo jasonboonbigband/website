@@ -27,7 +27,8 @@
   		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>
   	</table>
   	</p>
-	<a href="bigbandbattle.ch/Flyer-Bigband-Battle-ZH.pdf">Flyer Bigbandbattle</a>
+	hier der <a href="bigbandbattle.ch/Flyer-Bigband-Battle-ZH.pdf">Flyer Bigbandbattle</a>
+	<p>
 	<img src="images/Flyer-Bigband-Battle-ZH.jpg" width="450" /> <br/>
      <br/>
      <p>
