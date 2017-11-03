@@ -15,11 +15,20 @@
 	<script type="text/javascript" src="engine0/jquery.js"></script>
 	<!-- End WOWSlider.com HEAD section -->
 
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
-	<!--script type="text/javascript" src="engine1/jquery.js"></script-->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+
+	<!--script type="text/javascript" src="engine1/jquery.js"></script-->
+
 	<!-- End WOWSlider.com HEAD section -->
-</head>
+
+	<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine3/style.css" />
+<script type="text/javascript" src="engine3/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->	
+	
+	</head>
 
 <body>
 <?php include("navigation.php"); ?>
