@@ -1,10 +1,7 @@
 <?php include("header.php"); ?>
-<head>
-<!-- Start WOWSlider.com HEAD section -->
-<link rel="stylesheet" type="text/css" href="engine3/style.css" />
-<script type="text/javascript" src="engine3/jquery.js"></script>
-<!-- End WOWSlider.com HEAD section -->	
-</head>   
+
+
+ 
 <div class ="mainborder">
 
   <div class ="header">
