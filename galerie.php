@@ -18,7 +18,9 @@
     <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Galerie </h1>
 <br/>
 
+
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 Jahre JBBB</h3>
+
 
 <!-- Start WOWSlider.com BODY section -->
 <div id="wowslider-container3">
