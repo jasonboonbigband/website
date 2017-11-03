@@ -27,7 +27,7 @@
   		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>
   	</table>
   	</p>
-	<img src="images/Flyer-Bigband-Battle-ZH.jpg" width="450" /> <br/>
+	<a href="bigbandbattle.ch/Flyer-Bigband-Battle-ZH.pdf"><img src="images/Flyer-Bigband-Battle-ZH.jpg" width="450" /></a> <br/>
      <br/>
      <p>
 	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="kontakt.php">Kontaktaufnahme</a>.
