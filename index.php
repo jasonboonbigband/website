@@ -27,6 +27,7 @@
   		<!---<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>-->	
   	</table>
   	</p>
+<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>
 	<a href="bigbandbattle.ch/Flyer-Bigband-Battle-ZH.pdf">Flyer Bigbandbattle</a>
 	<p>
 	<img src="images/Flyer-Bigband-Battle-ZH.jpg" width="450" /> <br/>
