@@ -23,7 +23,7 @@
   		<tr><td valign="top" align="right">Wann:</td><td>26./27. Januar 2018</td></tr>
   		<tr><td valign="top" align="right">Zeit:</td><td>20:00 Uhr, 19:00 Türöffnung</td></tr>
   		<tr><td valign="top" align="right">Wo:</td><td>Freitag: Stadtsaal Kloten, Samstag: Kollegosaal Stans</a></td></tr>
-  		<tr><td valign="top" align="right"<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</td><td>35.-/20.-</td></tr> 	-->	
+  		<tr><td valign="top" align="right"<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>
   		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>
   	</table>
   	</p>
