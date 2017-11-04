@@ -15,7 +15,20 @@
 
    
  	 <h2>Herzlich Willkommen bei der JBBB!</h2><br />
-     <img src="images/boons_kdo.jpg" width="450" /> <br/>
+		  
+		  <!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container4">
+<div class="ws_images"><ul>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/qeOylCO6uiA?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data4/images/qeoylco6uia.png" alt="JBBB Trailer 2016" title="JBBB Trailer 2016" id="wows4_0"/>Querschnitt aus der letzten Show mit den Darnettes.</li>
+	</ul></div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery carousel</a> by WOWSlider.com v8.8m</div>
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine4/wowslider.js"></script>
+<script type="text/javascript" src="engine4/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+		  
+    <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
      <h3>N&auml;chste Auftritte</h3>
      <p>
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
