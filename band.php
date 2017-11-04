@@ -33,7 +33,7 @@ Ballnacht, Swingnights, Battles, Stage Days, Kampf der Orchester</li>
 <!-- End WOWSlider.com BODY section -->
     </p>
     <br/>
-    <b>Mehr Videos auf unserem <a href="https://www.youtube.com/user/JasonBoonBigBand/playlists">youtube-Kanal</a></b><br/>
+    Mehr Videos auf unserem <a href="https://www.youtube.com/user/JasonBoonBigBand/playlists">youtube-Kanal</a>
     
     </p>
     <br/>
