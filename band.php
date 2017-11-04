@@ -19,6 +19,23 @@ Jason Boon Bigband, das sind 20 ambitionierte Amateur- und Berufsmusiker, welche
         Wir spielen ein anspruchsvolles Repertoire aus Jazz, Funk und Pop.</p><p>
 Bisherige Highlights aus zehn Jahren Bandgeschichte: Swingnights Sargans, Kampf der Orchester, Stagedays Kloten und diverse legendäre Bigband-Battles.
     </p>
+    <!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container5">
+<div class="ws_images"><ul>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/20i0yupKItA?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data5/images/20i0yupkita.png" alt="Highlights 10 Years JBBB" title="Highlights 10 Years JBBB" id="wows5_0"/>Highlights aus 10 Jahren Jason Boon Bigband 2005-2015
+Ballnacht, Swingnights, Battles, Stage Days, Kampf der Orchester</li>
+	</ul></div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery carousel</a> by WOWSlider.com v8.8m</div>
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine5/wowslider.js"></script>
+<script type="text/javascript" src="engine5/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+    </p>
+    <br/>
+    Mehr Videos auf unserem youtube-Kanal
+    
+    </p>
     <br/>
     <p>Stefan Mens (Leader)</p>
 
