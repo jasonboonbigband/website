@@ -33,20 +33,7 @@
      <p>
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
 	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt. Ein begeistertes Publikum ist garantiert, wenn die Bands um dessen Gunst mit möglichst guten Tönen und vielen witzigen Einlagen buhlen.
-	     Ein Konzertformat der besonderen Art, zwei Band's auf einer Bühne im musikalischen Duell und das Publikum mittendrin...
-...lassen Sie sich überraschen und unterstützen Sie die Jason Boon Big Band im musikalischen Wettstreit in Kloten und / oder in Stans. Wir freuen uns auf Ihren Besuch!
-
-      <table border="0">
-  		<tr><td valign="top" align="right">Wann:</td><td>26./27. Januar 2018</td></tr>
-  		<tr><td valign="top" align="right">Zeit:</td><td>20:00 Uhr, 19:00 Türöffnung</td></tr>
-  		<tr><td valign="top" align="right">Wo:</td><td>Freitag: Stadtsaal Kloten, Samstag: Kollegisaal Stans</a></td></tr>
-  		<!---<tr><td valign="top" align="right"<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>
-  		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>-->	
-  	</table>
-  	</p>
-<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>
-</p>
-	<a href="bigbandbattle.ch/Flyer-Bigband-Battle-ZH.pdf">Flyer Bigbandbattle</a>
+	     Hier der Bericht des <a href="https://www.zuonline.ch/front/big-bands-liefern-sich-buehnenduell/story/25589973">Zürcher Unterländers</a>
 	<p>
 	<img src="images/Flyer-Bigband-Battle-ZH.jpg" width="450" /> <br/>
      <br/>
@@ -55,7 +42,7 @@
 	 </p>
 	  <p>
 	  <h3>Musiker gesucht</h3>
-		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune, Piano
+		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune
 	  </p>
   	
 
