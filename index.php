@@ -29,10 +29,10 @@
 <!-- End WOWSlider.com BODY section -->
 		  
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
-     <h3>N&auml;chste Auftritte</h3>
+     <h3>Aktuelle Auftritte</h3>
      <p>
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
-	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal werden die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans kreuzen. Ein begeistertes Publikum ist garantiert, wenn die Bands um dessen Gunst mit möglichst guten Tönen und vielen witzigen Einlagen buhlen.
+	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt. Ein begeistertes Publikum ist garantiert, wenn die Bands um dessen Gunst mit möglichst guten Tönen und vielen witzigen Einlagen buhlen.
 	     Ein Konzertformat der besonderen Art, zwei Band's auf einer Bühne im musikalischen Duell und das Publikum mittendrin...
 ...lassen Sie sich überraschen und unterstützen Sie die Jason Boon Big Band im musikalischen Wettstreit in Kloten und / oder in Stans. Wir freuen uns auf Ihren Besuch!
 
