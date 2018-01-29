@@ -15,18 +15,40 @@
 
    
  	 <h2>Herzlich Willkommen bei der JBBB!</h2><br />
-     <img src="images/boons_kdo.jpg" width="450" /> <br/>
-     <h3>N&auml;chste Auftritte</h3>
+		  
+		  <!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container4">
+<div class="ws_images"><ul>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/qeOylCO6uiA?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data4/images/qeoylco6uia.png" alt="JBBB Trailer 2016" title="JBBB Trailer 2016" id="wows4_0"/>Querschnitt aus der letzten Show mit den Darnettes.</li>
+	</ul></div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery carousel</a> by WOWSlider.com v8.8m</div>
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine4/wowslider.js"></script>
+<script type="text/javascript" src="engine4/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+		  
+    <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
+     <h3>Aktuelle Auftritte</h3>
      <p>
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
+	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt. Ein begeistertes Publikum ist garantiert, wenn die Bands um dessen Gunst mit möglichst guten Tönen und vielen witzigen Einlagen buhlen.
+	     Ein Konzertformat der besonderen Art, zwei Band's auf einer Bühne im musikalischen Duell und das Publikum mittendrin...
+...lassen Sie sich überraschen und unterstützen Sie die Jason Boon Big Band im musikalischen Wettstreit in Kloten und / oder in Stans. Wir freuen uns auf Ihren Besuch!
+
       <table border="0">
   		<tr><td valign="top" align="right">Wann:</td><td>26./27. Januar 2018</td></tr>
-  		<!---<tr><td valign="top" align="right">Zeit:</td><td>18:00-19:00</td></tr>
-  		<tr><td valign="top" align="right">Wo:</td><td>Eventbühne</a></td></tr>--->
-  		<!-- <tr><td valign="top" align="right">Eintritt:</td><td>35.-/20.-</td></tr> 	-->	
-  		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>
+  		<tr><td valign="top" align="right">Zeit:</td><td>20:00 Uhr, 19:00 Türöffnung</td></tr>
+  		<tr><td valign="top" align="right">Wo:</td><td>Freitag: Stadtsaal Kloten, Samstag: Kollegisaal Stans</a></td></tr>
+  		<!---<tr><td valign="top" align="right"<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>
+  		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>-->	
   	</table>
   	</p>
+<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>
+</p>
+	<a href="bigbandbattle.ch/Flyer-Bigband-Battle-ZH.pdf">Flyer Bigbandbattle</a>
+	<p>
+	<img src="images/Flyer-Bigband-Battle-ZH.jpg" width="450" /> <br/>
      <br/>
      <p>
 	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="kontakt.php">Kontaktaufnahme</a>.
