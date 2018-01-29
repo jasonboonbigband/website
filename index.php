@@ -36,7 +36,7 @@
 	     <br/>Hier der Bericht des <a href="https://www.zuonline.ch/front/big-bands-liefern-sich-buehnenduell/story/25589973">Zürcher Unterländers</a>
 	     <br/>weitere Bilder folgen
 	<p>
-	<img src="images/Flyer-Bigband-Battle-ZH.jpg" width="450" /> <br/>
+	<img src="images/IMG-20180127-WA0006.jpg" width="450" /> <br/>
      <br/>
      <p>
 	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="kontakt.php">Kontaktaufnahme</a>.
