@@ -34,7 +34,7 @@
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
 	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt.
 	     <br/>Hier der Bericht des <a href="https://www.zuonline.ch/front/big-bands-liefern-sich-buehnenduell/story/25589973">Zürcher Unterländers</a>
-	     <br/>weitere Bilder folgen
+	     <br/>weitere Bilder in der Galerie...
 	<p>
 	<img src="images/IMG-20180127-WA0006.jpg" width="450" /> <br/>
      <br/>
