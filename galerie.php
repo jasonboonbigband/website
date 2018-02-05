@@ -17,8 +17,49 @@
   <div class ="content">
     <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Galerie </h1>
 <br/>
+	  
+	  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bigband Battle Januar 2018, JBBB vs Fidelis</h3>
 
+	  
+	  <!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container7">
+<div class="ws_images"><ul>
+		<li><img src="data7/images/img_20180126_170624.jpg" alt="IMG_20180126_170624" title="IMG_20180126_170624" id="wows7_0"/></li>
+		<li><img src="data7/images/img_20180126_170650.jpg" alt="IMG_20180126_170650" title="IMG_20180126_170650" id="wows7_1"/></li>
+		<li><img src="data7/images/img_20180127_174436.jpg" alt="IMG_20180127_174436" title="IMG_20180127_174436" id="wows7_2"/></li>
+		<li><img src="data7/images/img20180126wa0001.jpg" alt="IMG-20180126-WA0001" title="IMG-20180126-WA0001" id="wows7_3"/></li>
+		<li><img src="data7/images/img20180127wa0003.jpg" alt="IMG-20180127-WA0003" title="IMG-20180127-WA0003" id="wows7_4"/></li>
+		<li><img src="data7/images/img20180127wa0005.jpg" alt="IMG-20180127-WA0005" title="IMG-20180127-WA0005" id="wows7_5"/></li>
+		<li><img src="data7/images/img20180127wa0006.jpg" alt="IMG-20180127-WA0006" title="IMG-20180127-WA0006" id="wows7_6"/></li>
+		<li><img src="data7/images/img20180127wa0008.jpg" alt="IMG-20180127-WA0008" title="IMG-20180127-WA0008" id="wows7_7"/></li>
+		<li><img src="data7/images/img20180127wa0009.jpg" alt="IMG-20180127-WA0009" title="IMG-20180127-WA0009" id="wows7_8"/></li>
+		<li><img src="data7/images/img20180127wa0011.jpg" alt="IMG-20180127-WA0011" title="IMG-20180127-WA0011" id="wows7_9"/></li>
+		<li><img src="data7/images/img_9599.jpg" alt="IMG_9599" title="IMG_9599" id="wows7_10"/></li>
+		<li><img src="data7/images/img_9601.jpg" alt="IMG_9601" title="IMG_9601" id="wows7_11"/></li>
+		<li><img src="data7/images/img_9608.jpg" alt="IMG_9608" title="IMG_9608" id="wows7_12"/></li>
+		<li><img src="data7/images/img_9622.jpg" alt="IMG_9622" title="IMG_9622" id="wows7_13"/></li>
+		<li><img src="data7/images/img_9626.jpg" alt="IMG_9626" title="IMG_9626" id="wows7_14"/></li>
+		<li><img src="data7/images/img_9627.jpg" alt="IMG_9627" title="IMG_9627" id="wows7_15"/></li>
+		<li><img src="data7/images/img_9645.jpg" alt="IMG_9645" title="IMG_9645" id="wows7_16"/></li>
+		<li><img src="data7/images/img_9654.jpg" alt="IMG_9654" title="IMG_9654" id="wows7_17"/></li>
+		<li><img src="data7/images/img_9658.jpg" alt="IMG_9658" title="IMG_9658" id="wows7_18"/></li>
+		<li><img src="data7/images/img_9663.jpg" alt="IMG_9663" title="IMG_9663" id="wows7_19"/></li>
+		<li><img src="data7/images/img_9664.jpg" alt="IMG_9664" title="IMG_9664" id="wows7_20"/></li>
+		<li><img src="data7/images/img_9666.jpg" alt="IMG_9666" title="IMG_9666" id="wows7_21"/></li>
+		<li><img src="data7/images/img_9668.jpg" alt="IMG_9668" title="IMG_9668" id="wows7_22"/></li>
+		<li><img src="data7/images/img_9685.jpg" alt="IMG_9685" title="IMG_9685" id="wows7_23"/></li>
+		<li><a href="http://wowslider.net"><img src="data7/images/dsc_0001.jpg" alt="wow slider" title="DSC_0001" id="wows7_24"/></a></li>
+		<li><img src="data7/images/dsc_0021.jpg" alt="DSC_0021" title="DSC_0021" id="wows7_25"/></li>
+	</ul></div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">javascript carousel</a> by WOWSlider.com v8.8m</div>
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine7/wowslider.js"></script>
+<script type="text/javascript" src="engine7/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+(Dank u.a. an den Klotener Anzeiger und die Unterland Zeitung für die Bilder)	  
 
+	  
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 Jahre JBBB</h3>
 
 
