@@ -59,8 +59,8 @@
 <!-- End WOWSlider.com BODY section -->
 (Dank u.a. an den Klotener Anzeiger und die Unterland Zeitung für die Bilder)	  
 
-
-	  
+<br/>
+<br/>	  
 	  
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 Jahre JBBB</h3>
 
