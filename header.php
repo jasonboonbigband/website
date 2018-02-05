@@ -40,6 +40,11 @@
 
 <!-- End WOWSlider.com HEAD section -->
 	
+	<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine7/style.css" />
+<script type="text/javascript" src="engine7/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+	
 	</head>
 
 <body>
