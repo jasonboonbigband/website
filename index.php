@@ -43,7 +43,7 @@
 	 </p>
 	  <p>
 	  <h3>Musiker gesucht</h3>
-		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune
+		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune, Gitarre, Piano
 	  </p>
   	
 
