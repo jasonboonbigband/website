@@ -29,7 +29,21 @@
 <!-- End WOWSlider.com BODY section -->
 		  
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
-     <h3>Aktuelle Auftritte</h3>
+	 <h3>Aktuelle Auftritte</h3>
+     <p>
+     <b>Bigband-Battle: <a href="http://www.buffaloband.ch/">Buffalo Band Bassaville (Bassersdorf)</a> vs JBBB</b><br/>
+	     Save the date! Am 1. Dezember 2018 tritt die Jason Boon Bigband zum nächsten Bigband-Battle an, 
+	     dieses Mal gegen die Buffalo Band Bassaville.
+
+      <table border="0">
+  		<tr><td valign="top" align="right">Wann:</td><td>1. Dezember 2018</td></tr>
+  		<!--- <tr><td valign="top" align="right">Zeit:</td><td>20:00 Uhr, 19:00 Türöffnung</td></tr> -->
+  		<tr><td valign="top" align="right">Wo:</td><td><a href="https://www.google.ch/maps/place/Zentrum+Schluefweg/@47.4442069,8.5799511,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9ff5df2c83b3:0x1afe03cd3d357023!8m2!3d47.4442033!4d8.5821398">Stadtsaal Kloten</a></td></tr>
+  		<!---<tr><td valign="top" align="right"<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>-->	
+  		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>
+  	</table>
+  	</p>	  
+     <h3>Vergangene Auftritte</h3>
      <p>
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
 	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt.
@@ -43,7 +57,7 @@
 	 </p>
 	  <p>
 	  <h3>Musiker gesucht</h3>
-		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune, Gitarre, Piano
+		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune, Gitarre
 	  </p>
   	
 
