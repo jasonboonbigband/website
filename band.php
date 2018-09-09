@@ -42,19 +42,19 @@ Ballnacht, Swingnights, Battles, Stage Days, Kampf der Orchester</li>
 <p>
 Martin B&uuml;rgi (Altsax)<br />
 Rita Stöcklin (Altsax)<br/>
-Mats Wilhelm (Altsax) <br />
+Liana Soliman (Altsax) <br />
 Jasmin Baumann (Tenorsax)<br />
 Sandra Roth (Tenorsax)<br />
 Els van Es (Baritonsax) </p>
 <p>
 Ren&eacute; Halbheer (Trompete)<br />
-Daniel Wegmann (Trompete)<br />
 J&ouml;rg M&auml;der (Trompete)<br />
 Hanspeter St&auml;delin (Trompete)<br />
 Anita Steiner (Trompete)<br/>
 </p>
 <p>
 Marcel L&uuml;thi (Posaune)<br/>
+Dirk Blom (Posaune)<br/>
 Christian St&auml;delin (Bassposaune) <br/>
 </p>
 <p>
