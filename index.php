@@ -37,12 +37,15 @@
 
       <table border="0">
   		<tr><td valign="top" align="right">Wann:</td><td>1. Dezember 2018</td></tr>
-  		<!--- <tr><td valign="top" align="right">Zeit:</td><td>20:00 Uhr, 19:00 Türöffnung</td></tr> -->
+  		<tr><td valign="top" align="right">Zeit:</td><td>20:00 Uhr, 19:00 Türöffnung</td></tr>
   		<tr><td valign="top" align="right">Wo:</td><td><a href="https://www.google.ch/maps/place/Zentrum+Schluefweg/@47.4442069,8.5799511,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9ff5df2c83b3:0x1afe03cd3d357023!8m2!3d47.4442033!4d8.5821398">Stadtsaal Kloten</a></td></tr>
-  		<!---<tr><td valign="top" align="right"<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>-->	
-  		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>
+  		<tr><td valign="top" align="right"<a href="https://goo.gl/forms/T93snS8jjorFF0jr1">Tickets reservieren</a>	
   	</table>
-  	</p>	  
+  	</p>	
+	  <a href="images/Flyer-JBBBvsBBB-2Page.pdf">Flyer Bigbandbattle</a>
+	  <p>imgsrc"images/Flyer-front.jpg"width"450"/>br/
+
+	  
      <h3>Vergangene Auftritte</h3>
      <p>
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
