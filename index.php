@@ -42,7 +42,7 @@
   		<tr><td valign="top" align="right"></td><td><a href="https://goo.gl/forms/T93snS8jjorFF0jr1">Tickets reservieren</a></td></tr>	
   	</table>
   	</p>	
-	  <a> href="images/Flyer-JBBBvsBBB-2Page.pdf">Flyer Bigbandbattle</a>
+	  <a href="images/Flyer-JBBBvsBBB-2Page.pdf">Flyer Bigbandbattle</a>
 	  <img src="images/Flyer-front.jpg" width="450" /> <br/>
 
 	  
