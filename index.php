@@ -43,7 +43,7 @@
   	</table>
   	</p>	
 	  <a href="images/Flyer-JBBBvsBBB-2Page.pdf">Flyer Bigbandbattle</a>
-	  <p>imgsrc"images/Flyer-front.jpg"width"450"/>br/
+	  <img src="images/Flyer-front.jpg" width="450" /> <br/>
 
 	  
      <h3>Vergangene Auftritte</h3>
