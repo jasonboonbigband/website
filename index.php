@@ -43,7 +43,7 @@
   	</table>
   	</p>	
 	  <a href="images/Flyer-JBBBvsBBB-2Page.pdf">Flyer Bigbandbattle</a>
-	  <img src="images/Flyer-front.jpg" width="450" /> <br/>
+	  <img src="images/Flyer-front.jpg" width="450" />
 		
 Ein Konzertformat der besonderen Art, zwei Band's auf einer Bühne im musikalischen Duell und das Publikum mittendrin...
 ...lassen Sie sich überraschen und unterstützen Sie ihre Band im musikalischen Wettstreit in Kloten. Wir freuen uns auf Ihren Besuch!
