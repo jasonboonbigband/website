@@ -45,7 +45,7 @@
 	  <a href="images/Flyer-JBBBvsBBB-2Page.pdf">Flyer Bigbandbattle</a>
 	  <img src="images/Flyer-front.jpg" width="450" /> <br/>
 		
-<b>Ein Konzertformat der besonderen Art, zwei Band's auf einer Bühne im musikalischen Duell und das Publikum mittendrin...
+Ein Konzertformat der besonderen Art, zwei Band's auf einer Bühne im musikalischen Duell und das Publikum mittendrin...
 ...lassen Sie sich überraschen und unterstützen Sie ihre Band im musikalischen Wettstreit in Kloten. Wir freuen uns auf Ihren Besuch!
 
 Die Herausforderung eines Bigbandbattle: Zwei Bands auf der Bühne, was sie spielen, entscheidet das Publikum. Ebenso wer pro gespielter Kategorie einen Punkt erhält. Ähnlich dem Theatersport buhlen die Bands mit möglichst guten Tönen, vielen witzigen Einlagen und der richtigen Songauswahl um die Gunst des Publikims.
