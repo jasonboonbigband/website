@@ -53,10 +53,19 @@ Wer am Ende mit der Trophäe nach Hause geht, entscheiden Sie!
 
 	  
      <h3>Vergangene Auftritte</h3>
+<p>
+     <b>Bigband-Battle: <a href="http://www.buffaloband.ch/">Buffalo Band Bassaville (Bassersdorf)</a> vs JBBB</b><br/>
+	     Am 1. Dezember 2018 trat die Jason Boon Bigband zum achten Bigband-Battle an, 
+dieses Mal gegen die Buffalo Band Bassaville, und holte sich ihren ersten Sieg!
      <p>
+<p>
+	<img src="images/Bericht-Klotener-Dez18.jpg" width="450" /> <br/>
+	
+	
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
 	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt.
 	     <br/>Hier der Bericht des <a href="https://www.zuonline.ch/front/big-bands-liefern-sich-buehnenduell/story/25589973">Zürcher Unterländers</a>
+	     
 	     <br/>weitere Bilder in der Galerie...
 	<p>
 	<img src="images/IMG-20180127-WA0006.jpg" width="450" /> <br/>
