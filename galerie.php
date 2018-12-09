@@ -19,6 +19,7 @@
 <br/>
 	  
 	  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bigband Battle Januar 2018, JBBB vs Fidelis</h3>
+	  <br/>Bericht des <a href="https://www.zuonline.ch/front/big-bands-liefern-sich-buehnenduell/story/25589973">Zürcher Unterländers</a>
 
 	  
 	  <!-- Start WOWSlider.com BODY section -->
