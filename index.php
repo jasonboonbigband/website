@@ -31,25 +31,8 @@
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
 	 <h3>Aktuelle Auftritte</h3>
      <p>
-     <b>Bigband-Battle: <a href="http://www.buffaloband.ch/">Buffalo Band Bassaville (Bassersdorf)</a> vs JBBB</b><br/>
-	     Save the date! Am 1. Dezember 2018 tritt die Jason Boon Bigband zum nächsten Bigband-Battle an, 
-	     dieses Mal gegen die Buffalo Band Bassaville.
+         <p>
 
-      <table border="0">
-  		<tr><td valign="top" align="right">Wann:</td><td>1. Dezember 2018</td></tr>
-  		<tr><td valign="top" align="right">Zeit:</td><td>20:00 Uhr, 19:00 Türöffnung</td></tr>
-  		<tr><td valign="top" align="right">Wo:</td><td><a href="https://www.google.ch/maps/place/Zentrum+Schluefweg/@47.4442069,8.5799511,17z/data=!3m1!4b1!4m5!3m4!1s0x479a9ff5df2c83b3:0x1afe03cd3d357023!8m2!3d47.4442033!4d8.5821398">Stadtsaal Kloten</a></td></tr>
-  		<tr><td valign="top" align="right"></td><td><a href="https://goo.gl/forms/T93snS8jjorFF0jr1">Tickets reservieren</a></td></tr>	
-  	</table>
-  	</p>	
-	  <a href="images/Flyer-JBBBvsBBB-2Page.pdf">Flyer Bigbandbattle</a>
-		<img src="images/Flyer-front.jpg" width="450" /> </br>
-<p>		
-Ein Konzertformat der besonderen Art, zwei Band's auf einer Bühne im musikalischen Duell und das Publikum mittendrin...
-...lassen Sie sich überraschen und unterstützen Sie ihre Band im musikalischen Wettstreit in Kloten. Wir freuen uns auf Ihren Besuch!
-<p>
-<br/>Die Herausforderung eines Bigbandbattle: Zwei Bands auf der Bühne, was sie spielen, entscheidet das Publikum. Ebenso wer pro gespielter Kategorie einen Punkt erhält. Ähnlich dem Theatersport buhlen die Bands mit möglichst guten Tönen, vielen witzigen Einlagen und der richtigen Songauswahl um die Gunst des Publikims.
-Wer am Ende mit der Trophäe nach Hause geht, entscheiden Sie!
 
 	  
      <h3>Vergangene Auftritte</h3>
@@ -60,7 +43,9 @@ dieses Mal gegen die Buffalo Band Bassaville, und holte sich ihren ersten Sieg!
      <p>
 <p>
 	<img src="images/Bericht-Klotener-Dez18.jpg" width="450" /> <br/>
-	
+	<p>
+<p>
+
 	
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
 	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt.
@@ -68,7 +53,7 @@ dieses Mal gegen die Buffalo Band Bassaville, und holte sich ihren ersten Sieg!
 	     
 	     <br/>weitere Bilder in der Galerie...
 	<p>
-	<img src="images/IMG-20180127-WA0006.jpg" width="450" /> <br/>
+	
      <br/>
      <p>
 	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="kontakt.php">Kontaktaufnahme</a>.
