@@ -57,7 +57,9 @@
 <script type="text/javascript" src="engine18/wowslider.js"></script>
 <script type="text/javascript" src="engine18/script.js"></script>
 <!-- End WOWSlider.com BODY section -->
-	  
+	  <br/>
+<br/>
+
 	  <p>
 	  
 	  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bigband Battle Januar 2018, JBBB vs Fidelis</h3>
