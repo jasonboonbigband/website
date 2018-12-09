@@ -18,6 +18,48 @@
     <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Galerie </h1>
 <br/>
 	  
+	   <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bigband Battle Dezember 2018, JBBB vs Buffalo Band Bassaville</h3>
+	  
+	  <!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container18">
+<div class="ws_images"><ul>
+		<li><img src="data18/images/img20181201wa0000.jpg" alt="IMG-20181201-WA0000" title="IMG-20181201-WA0000" id="wows18_0"/></li>
+		<li><img src="data18/images/img20181202wa0013.jpg" alt="IMG-20181202-WA0013" title="IMG-20181202-WA0013" id="wows18_1"/></li>
+		<li><img src="data18/images/img_20181201_203441.jpg" alt="IMG_20181201_203441" title="IMG_20181201_203441" id="wows18_2"/></li>
+		<li><img src="data18/images/img20181202wa0003.jpg" alt="IMG-20181202-WA0003" title="IMG-20181202-WA0003" id="wows18_3"/></li>
+		<li><img src="data18/images/img20181202wa0004.jpg" alt="IMG-20181202-WA0004" title="IMG-20181202-WA0004" id="wows18_4"/></li>
+		<li><img src="data18/images/img_20181201_202248.jpg" alt="IMG_20181201_202248" title="IMG_20181201_202248" id="wows18_5"/></li>
+		<li><img src="data18/images/img20181202wa0005.jpg" alt="IMG-20181202-WA0005" title="IMG-20181202-WA0005" id="wows18_6"/></li>
+		<li><img src="data18/images/img20181202wa0007.jpg" alt="IMG-20181202-WA0007" title="IMG-20181202-WA0007" id="wows18_7"/></li>
+		<li><img src="data18/images/img20181202wa0008.jpg" alt="IMG-20181202-WA0008" title="IMG-20181202-WA0008" id="wows18_8"/></li>
+		<li><img src="data18/images/img20181202wa0009.jpg" alt="IMG-20181202-WA0009" title="IMG-20181202-WA0009" id="wows18_9"/></li>
+		<li><img src="data18/images/img20181202wa0010.jpg" alt="IMG-20181202-WA0010" title="IMG-20181202-WA0010" id="wows18_10"/></li>
+		<li><a href="http://wowslider.net"><img src="data18/images/img20181202wa0011.jpg" alt="html5 slideshow" title="IMG-20181202-WA0011" id="wows18_11"/></a></li>
+		<li><img src="data18/images/img20181202wa0012.jpg" alt="IMG-20181202-WA0012" title="IMG-20181202-WA0012" id="wows18_12"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="IMG-20181201-WA0000"><span><img src="data18/tooltips/img20181201wa0000.jpg" alt="IMG-20181201-WA0000"/>1</span></a>
+		<a href="#" title="IMG-20181202-WA0013"><span><img src="data18/tooltips/img20181202wa0013.jpg" alt="IMG-20181202-WA0013"/>2</span></a>
+		<a href="#" title="IMG_20181201_203441"><span><img src="data18/tooltips/img_20181201_203441.jpg" alt="IMG_20181201_203441"/>3</span></a>
+		<a href="#" title="IMG-20181202-WA0003"><span><img src="data18/tooltips/img20181202wa0003.jpg" alt="IMG-20181202-WA0003"/>4</span></a>
+		<a href="#" title="IMG-20181202-WA0004"><span><img src="data18/tooltips/img20181202wa0004.jpg" alt="IMG-20181202-WA0004"/>5</span></a>
+		<a href="#" title="IMG_20181201_202248"><span><img src="data18/tooltips/img_20181201_202248.jpg" alt="IMG_20181201_202248"/>6</span></a>
+		<a href="#" title="IMG-20181202-WA0005"><span><img src="data18/tooltips/img20181202wa0005.jpg" alt="IMG-20181202-WA0005"/>7</span></a>
+		<a href="#" title="IMG-20181202-WA0007"><span><img src="data18/tooltips/img20181202wa0007.jpg" alt="IMG-20181202-WA0007"/>8</span></a>
+		<a href="#" title="IMG-20181202-WA0008"><span><img src="data18/tooltips/img20181202wa0008.jpg" alt="IMG-20181202-WA0008"/>9</span></a>
+		<a href="#" title="IMG-20181202-WA0009"><span><img src="data18/tooltips/img20181202wa0009.jpg" alt="IMG-20181202-WA0009"/>10</span></a>
+		<a href="#" title="IMG-20181202-WA0010"><span><img src="data18/tooltips/img20181202wa0010.jpg" alt="IMG-20181202-WA0010"/>11</span></a>
+		<a href="#" title="IMG-20181202-WA0011"><span><img src="data18/tooltips/img20181202wa0011.jpg" alt="IMG-20181202-WA0011"/>12</span></a>
+		<a href="#" title="IMG-20181202-WA0012"><span><img src="data18/tooltips/img20181202wa0012.jpg" alt="IMG-20181202-WA0012"/>13</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery slider</a> by WOWSlider.com v8.8m</div>
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine18/wowslider.js"></script>
+<script type="text/javascript" src="engine18/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+	  
+	  <p>
+	  
 	  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bigband Battle Januar 2018, JBBB vs Fidelis</h3>
 
 	  
