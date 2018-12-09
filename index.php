@@ -31,6 +31,7 @@
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
 	 <h3>Aktuelle Auftritte</h3>
      <p>
+	     <b>kommende öffentliche Auftritte werden nächstens kommuniziert</b><br/>
          <p>
 
 
@@ -50,7 +51,8 @@ dieses Mal gegen die Buffalo Band Bassaville, und holte sich ihren ersten Sieg!
      <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
 	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt.
 	     <br/>Hier der Bericht des <a href="https://www.zuonline.ch/front/big-bands-liefern-sich-buehnenduell/story/25589973">Zürcher Unterländers</a>
-	     
+	     <p>
+
 	     <br/>weitere Bilder in der Galerie...
 	<p>
 	
