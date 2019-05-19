@@ -31,7 +31,9 @@
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
 	 <h3>Aktuelle Auftritte</h3>
      <p>
-	     <b>kommende öffentliche Auftritte werden nächstens kommuniziert</b><br/>
+	     <b>15. Juni 2019: Landsgemeinde Kloten</b><br/>
+	     <b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
+	     <b>24. August 2019: Sommerfest Opfikon</b><br/>
          <p>
 
 
