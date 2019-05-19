@@ -32,8 +32,11 @@
 	 <h3>Aktuelle Auftritte</h3>
      <p>
 	     <b>15. Juni 2019: Landsgemeinde Kloten</b><br/>
+	     Wir umrahmen die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a>, zusammen mit <a href="http://www.nicolassenn.ch/v4/">Nicolas Senn</a>. Zudem haben wir unser eigenes <a href="https://landsgemeinde-kloten.ch/projekte-2019/179-bigband-battle-weekend-kloten">Projekt</a> eingereicht! Das Voting läuft bis Ende Mai, danke für eure Stimme!
 	     <b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
+	     Bühne frei! Musik und Kultur auf dem Stadtplatz. Unter diesem Motto treten wir am Sonntag Vormittag auf dem Stadtplatz auf. Inkl. Frühstück!
 	     <b>24. August 2019: Sommerfest Opfikon</b><br/>
+	     Sommerfest im Alterszentrum Gibeleich in Opfikon. Wir rocken das Festzelt, zusammen mit Patric Scott!
          <p>
 
 
