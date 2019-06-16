@@ -31,18 +31,21 @@
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
 	 <h3>Aktuelle Auftritte</h3>
      <p>
-	     <b>15. Juni 2019: Landsgemeinde Kloten</b><br/>
-	     Wir umrahmen die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a>, zusammen mit <a href="http://www.nicolassenn.ch/v4/">Nicolas Senn</a>. Zudem haben wir unser eigenes <a href="https://landsgemeinde-kloten.ch/projekte-2019/179-bigband-battle-weekend-kloten">Projekt</a> eingereicht! Das Voting läuft bis Ende Mai, danke für eure Stimme!<br/>
 	     <br/><b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
+	     </b><br/>witterungsbedingt abgesagt</b><br/>
 	     Bühne frei! <a href="images/Musik und Kultur_Final Flyer.pdf"> Musik und Kultur auf dem Stadtplatz</a>. Unter diesem Motto treten wir am Sonntag Vormittag auf dem Stadtplatz auf. Inkl. Frühstück!<br/>
 	     <br/><b>24. August 2019: Sommerfest Opfikon</b><br/>
 	     Sommerfest im Alterszentrum Gibeleich in Opfikon. Wir rocken das Festzelt, zusammen mit Patric Scott!
          <p>
 
-
+ <h3>News</h3>
+     <p>
+	  
 	  
      <h3>Vergangene Auftritte</h3>
 <p>
+	<b>15. Juni 2019: Landsgemeinde Kloten</b><br/>
+	     Wir umrahmen die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a>, zusammen mit <a href="http://www.nicolassenn.ch/v4/">Nicolas Senn</a>. Zudem haben wir unser eigenes <a href="https://landsgemeinde-kloten.ch/projekte-2019/179-bigband-battle-weekend-kloten">Projekt</a> eingereicht! Das Voting läuft bis Ende Mai, danke für eure Stimme!<br/>
      <b>Bigband-Battle: <a href="http://www.buffaloband.ch/">Buffalo Band Bassaville (Bassersdorf)</a> vs JBBB</b><br/>
 	     Am 1. Dezember 2018 trat die Jason Boon Bigband zum achten Bigband-Battle an, 
 dieses Mal gegen die Buffalo Band Bassaville, und holte sich ihren ersten Sieg!
