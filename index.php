@@ -32,7 +32,7 @@
 	 <h3>Aktuelle Auftritte</h3>
      <p>
 	     <br/><b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
-	     <b/>witterungsbedingt abgesagt</b><br/>
+	     <b>witterungsbedingt abgesagt!</b><br/>
 	     Bühne frei! <a href="images/Musik und Kultur_Final Flyer.pdf"> Musik und Kultur auf dem Stadtplatz</a>. Unter diesem Motto treten wir am Sonntag Vormittag auf dem Stadtplatz auf. Inkl. Frühstück!<br/>
 	     <br/><b>24. August 2019: Sommerfest Opfikon</b><br/>
 	     Sommerfest im Alterszentrum Gibeleich in Opfikon. Wir rocken das Festzelt, zusammen mit Patric Scott!
