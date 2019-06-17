@@ -31,7 +31,7 @@
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
 	
  <p>		  
-<br/><h3>Aktuelle Auftritte:</h3>
+<br/><h3>Aktuelle Auftritte</h3>
 	     <b>24. August 2019: Sommerfest Opfikon</b><br/>
 	     Sommerfest im Alterszentrum Gibeleich in Opfikon. Wir rocken das Festzelt, zusammen mit Patric Scott!
          <p>
