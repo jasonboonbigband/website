@@ -29,33 +29,48 @@
 <!-- End WOWSlider.com BODY section -->
 		  
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
-     <h3>Aktuelle Auftritte</h3>
+	 <h3>Aktuelle Auftritte</h3>
      <p>
-     <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
-	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt. Ein begeistertes Publikum ist garantiert, wenn die Bands um dessen Gunst mit möglichst guten Tönen und vielen witzigen Einlagen buhlen.
-	     Ein Konzertformat der besonderen Art, zwei Band's auf einer Bühne im musikalischen Duell und das Publikum mittendrin...
-...lassen Sie sich überraschen und unterstützen Sie die Jason Boon Big Band im musikalischen Wettstreit in Kloten und / oder in Stans. Wir freuen uns auf Ihren Besuch!
+	     <br/><b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
+	     <b>witterungsbedingt abgesagt!</b><br/>
+	     Bühne frei! <a href="images/Musik und Kultur_Final Flyer.pdf"> Musik und Kultur auf dem Stadtplatz</a>. Unter diesem Motto treten wir am Sonntag Vormittag auf dem Stadtplatz auf. Inkl. Frühstück!<br/>
+	     <br/><b>24. August 2019: Sommerfest Opfikon</b><br/>
+	     Sommerfest im Alterszentrum Gibeleich in Opfikon. Wir rocken das Festzelt, zusammen mit Patric Scott!
+         <p>
 
-      <table border="0">
-  		<tr><td valign="top" align="right">Wann:</td><td>26./27. Januar 2018</td></tr>
-  		<tr><td valign="top" align="right">Zeit:</td><td>20:00 Uhr, 19:00 Türöffnung</td></tr>
-  		<tr><td valign="top" align="right">Wo:</td><td>Freitag: Stadtsaal Kloten, Samstag: Kollegisaal Stans</a></td></tr>
-  		<!---<tr><td valign="top" align="right"<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>
-  		<tr><td valign="top" align="left" colspan="2">Weitere Details folgen...</td></tr>-->	
-  	</table>
-  	</p>
-<a href="https://goo.gl/forms/nJIOQwvRUQgusCA62">Tickets reservieren</a>
-</p>
-	<a href="bigbandbattle.ch/Flyer-Bigband-Battle-ZH.pdf">Flyer Bigbandbattle</a>
+ <h3>News</h3>
+     <p>
+	  
+	  
+     <h3>Vergangene Auftritte</h3>
+<p>
+	<b>15. Juni 2019: Landsgemeinde Kloten</b><br/>
+	     Wir umrahmen die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a>, zusammen mit <a href="http://www.nicolassenn.ch/v4/">Nicolas Senn</a>. Zudem haben wir unser eigenes <a href="https://landsgemeinde-kloten.ch/projekte-2019/179-bigband-battle-weekend-kloten">Projekt</a> eingereicht! Das Voting läuft bis Ende Mai, danke für eure Stimme!<br/>
+     <b>Bigband-Battle: <a href="http://www.buffaloband.ch/">Buffalo Band Bassaville (Bassersdorf)</a> vs JBBB</b><br/>
+	     Am 1. Dezember 2018 trat die Jason Boon Bigband zum achten Bigband-Battle an, 
+dieses Mal gegen die Buffalo Band Bassaville, und holte sich ihren ersten Sieg!
+     <p>
+<p>
+	<img src="images/Bericht-Klotener-Dez18.jpg" width="450" /> <br/>
 	<p>
-	<img src="images/Flyer-Bigband-Battle-ZH.jpg" width="450" /> <br/>
+<p>
+
+	
+     <b>Bigband-Battle: <a href="http://www.fidelisbigband.ch/">FidelisBigBand (Stans)</a> vs JBBB</b><br/>
+	     Bereits zum siebten Mal hat die JBBB die Herausforderung eines Bigbandbattles angenommen. Dieses Mal haben die Boons die musikalischen Klingen mit der Fidelis Bigband aus Stans gekreuzt.
+	     <br/>Hier der Bericht des <a href="https://www.zuonline.ch/front/big-bands-liefern-sich-buehnenduell/story/25589973">Zürcher Unterländers</a>
+	     <p>
+
+	     <br/>weitere Bilder in der Galerie...
+	<p>
+	
      <br/>
      <p>
 	 Gerne machen wir auch Ihren Event zu einem unvergesslichen Anlass und freuen uns &uuml;ber Ihre <a href="kontakt.php">Kontaktaufnahme</a>.
 	 </p>
 	  <p>
 	  <h3>Musiker gesucht</h3>
-		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune, Piano
+		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune, Gitarre
 	  </p>
   	
 
