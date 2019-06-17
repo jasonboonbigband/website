@@ -38,7 +38,7 @@
  <h3>News</h3>
      <p>
 	 <br/><b>Jury-Preis der Landsgemeinde Kloten</b><br/>
-	 Wir konnten die diesjährige Landsgemeinde in Kloten nicht nur musikalisch umrahmen, sondern auch noch sehr überraschend den Jurypreis für unser Projekt entgegennehmen. Wir gratulieren allen Preisträgern und bedanken uns ganz herzlich bei den Organisatoren!
+	 Wir konnten die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a> in Kloten nicht nur musikalisch umrahmen, sondern auch noch sehr überraschend den Jurypreis für unser Projekt entgegennehmen. Wir gratulieren allen Preisträgern und bedanken uns ganz herzlich bei den Organisatoren!
 	 Wir freuen uns sehr, dass das Format des Bigband-Battles die Jury überzeugt hat und sind hochmotiviert, das Projekt in die Tat umzusetzen!    
 	 <p>
 		 
