@@ -41,6 +41,9 @@
 	 Wir konnten die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a> in Kloten nicht nur musikalisch umrahmen, sondern auch noch sehr überraschend den Jurypreis für unser Projekt entgegennehmen. Wir gratulieren allen Preisträgern und bedanken uns ganz herzlich bei den Organisatoren!
 	 Wir freuen uns sehr, dass das Format des Bigband-Battles die Jury überzeugt hat und sind hochmotiviert, das Projekt in die Tat umzusetzen!    
 	 <p>
+	<p>
+	<img src="images/IMG-20190615-WA0004.jpeg" width="450" /> <br/>
+	<p>
 		 
      <h3>Vergangene Auftritte</h3>
 	 <b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
@@ -74,6 +77,9 @@ dieses Mal gegen die Buffalo Band Bassaville, und holte sich ihren ersten Sieg!
 	  <h3>Musiker gesucht</h3>
 		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune, Gitarre
 	  </p>
+	 <br/><h3>immer aktuell bleiben mit dem JBBB-Newsletter! </h3><br/>
+		Hier anmelden: <a href="https://jbbb.us19.list-manage.com/subscribe?u=d13bf7b1e6cf146bee3f604a8&id=7b4b9508d3">JBBB-Newsletter</a>
+		
   	
 
       <p>&nbsp;</p>
