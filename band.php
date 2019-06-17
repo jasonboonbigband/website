@@ -25,8 +25,8 @@ Bisherige Highlights aus zehn Jahren Bandgeschichte: Swingnights Sargans, Kampf 
 <p>
 Martin B&uuml;rgi (Altsax)<br />
 Rita Stöcklin (Altsax)<br/>
-Liana Soliman (Altsax) <br />
-Jasmin Baumann (Tenorsax)<br />
+Jasmin Baumann (Altsax)<br />
+Elena Centin (Tenorsax)<br />
 Sandra Roth (Tenorsax)<br />
 Els van Es (Baritonsax) </p>
 <p>
@@ -37,8 +37,8 @@ Anita Steiner (Trompete)<br/>
 </p>
 <p>
 Marcel L&uuml;thi (Posaune)<br/>
-Dirk Blom (Posaune)<br/>
-Christian St&auml;delin (Bassposaune) <br/>
+Andrea Keller (Posaune)<br/>
+Christian St&auml;delin (Bassposaune)<br/>
 </p>
 <p>
 Felix K&uuml;bler(Bass)<br />
