@@ -31,19 +31,19 @@
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
 	
  <p>		  
-<h3>Aktuelle Auftritte:</h3>
-	     <br/><b>24. August 2019: Sommerfest Opfikon</b><br/>
+<br/><h3>Aktuelle Auftritte:</h3>
+	     <b>24. August 2019: Sommerfest Opfikon</b><br/>
 	     Sommerfest im Alterszentrum Gibeleich in Opfikon. Wir rocken das Festzelt, zusammen mit Patric Scott!
          <p>
 
  <h3>News</h3>
-	 <br/><b>Jury-Preis der Landsgemeinde Kloten</b><br/>
+	 <b>Jury-Preis der Landsgemeinde Kloten</b><br/>
 	 Wir konnten die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a> in Kloten nicht nur musikalisch umrahmen, sondern auch noch sehr überraschend den Jurypreis für unser Projekt entgegennehmen. Wir gratulieren allen Preisträgern und bedanken uns ganz herzlich bei den Organisatoren!
 	 Wir freuen uns sehr, dass das Format des Bigband-Battles die Jury überzeugt hat und sind hochmotiviert, das Projekt in die Tat umzusetzen!    
 	 <p>
 		 
      <h3>Vergangene Auftritte</h3>
-	 <br/><b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
+	 <b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
 	     <b>witterungsbedingt abgesagt!</b><br/>
 	     Bühne frei! <a href="images/Musik und Kultur_Final Flyer.pdf"> Musik und Kultur auf dem Stadtplatz</a>. Unter diesem Motto treten wir am Sonntag Vormittag auf dem Stadtplatz auf. Inkl. Frühstück!<br/>
 	<b>15. Juni 2019: Landsgemeinde Kloten</b><br/>
