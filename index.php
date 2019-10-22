@@ -38,6 +38,7 @@
 		 <b>2020</b><br/>
 	     wir planen einiges für das nächste Jahr. Wir freuen uns, euch bald mehr Details bekannt zu geben.
          <p>
+		  <p>
 
  <h3>News</h3>
 	 <b>Jury-Preis der Landsgemeinde Kloten</b><br/>
