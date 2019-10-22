@@ -32,8 +32,11 @@
 	
  <p>		  
 <br/><h3>Aktuelle Auftritte</h3>
-	     <b>24. August 2019: Sommerfest Opfikon</b><br/>
-	     Sommerfest im Alterszentrum Gibeleich in Opfikon. Wir rocken das Festzelt, zusammen mit Patric Scott!
+	     <b>23. November 2019: Winterthur</b><br/>
+	     GROSSES MUSIKFEST AM KONSI, zusammen mit der Konsi-Bigband
+         <p>
+		 <b>2020</b><br/>
+	     wir planen einiges für das nächste Jahr. Wir freuen uns, euch bald mehr Details bekannt zu geben.
          <p>
 
  <h3>News</h3>
