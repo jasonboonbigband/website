@@ -50,6 +50,12 @@
 <script type="text/javascript" src="engine18/jquery.js"></script>
 <!-- End WOWSlider.com HEAD section -->
 	
+	<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine20/style.css" />
+<script type="text/javascript" src="engine20/jquery.js"></script>	<script src="https://www.youtube.com/iframe_api"></script>
+
+<!-- End WOWSlider.com HEAD section -->
+	
 	</head>
 
 <body>
