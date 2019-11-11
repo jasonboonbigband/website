@@ -39,7 +39,7 @@
 Konsi Big Band (Leitung: Roman Bieri) und<br/>
 		  Jason Boon BigBand (Leitung: Stefan Mens)<br/>
 		<p>  
-		  <img src="Jubilaeum50JahreToe1.png" width="450" /> <br/>
+		  <img src="images/Jubilaeum50JahreToe1.png" width="450" /> <br/>
          <p>
 		 <b>2020</b><br/>
 	     wir planen einiges für das nächste Jahr. Wir freuen uns, euch bald mehr Details bekannt zu geben.
