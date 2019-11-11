@@ -34,6 +34,10 @@
 <br/><h3>Aktuelle Auftritte</h3>
 	     <b>23. November 2019: Winterthur</b><br/>
 	     <a href="http://www.konservatorium.ch/aktuell">GROSSES MUSIKFEST AM KONSI </a>, zusammen mit der Konsi-Bigband.
+		  Wie der Jazz das Konsi eroberte
+19.00 Uhr, Rhythmiksaal
+Konsi Big Band (Leitung: Roman Bieri) und Jason Boon BigBand (Leitung: Stefan Mens)
+		  <img src="images/Jubiläum 50 Jahre Tö 1.png" width="450" /> <br/>
          <p>
 		 <b>2020</b><br/>
 	     wir planen einiges für das nächste Jahr. Wir freuen uns, euch bald mehr Details bekannt zu geben.
