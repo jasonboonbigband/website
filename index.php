@@ -35,7 +35,7 @@
 		  <img src="amasing-crowdfunding.png" width="450" /> <br/>
 		  <br/>
 Unser neues Projekt zusammen mit der A Cappella Formation amasing geht im Juni 2020 über die Bühne! <br/>
-Ab Anfang 2020 läuft das croudfunding-Projekt auf <a href="https://wemakeit.com/projects/a-cappella-meets-bigband">wemakeit.com</a><br/>
+Ab Anfang 2020 läuft das crowdfunding-Projekt auf <a href="https://wemakeit.com/projects/a-cappella-meets-bigband">wemakeit.com</a><br/>
 Danke für eure Unterstützung!<p>
 		  <img src="images/amasing-Bild1.jpg" width="450" /> <br/>
 <br/>		
