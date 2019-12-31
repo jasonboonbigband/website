@@ -30,15 +30,17 @@
 		  
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
 
+<p>		  
 <p>
 <h2>Ladies Night - A Cappella meets Bigband</h2><br />	
 Unser neues Projekt zusammen mit der A Cappella Formation amasing geht im Juni 2020 über die Bühne! Ab Anfang 2020 läuft das croudfunding-Projekt auf <a href="https://wemakeit.com/projects/a-cappella-meets-bigband">wemakeit.com</a>
 Danke für eure Unterstützung!
 		
-		  
+<p>		  
 <p>		  
 <br/><h3>Aktuelle Auftritte</h3>
-	     <b>24. Mai 2020: Kloten</b><br/>
+	     <b>24. Mai 2020</b><br/>
+		  e-motion, Kloten
 	      <p>
 	<b>Juni 2020</b><br/>
 	     Ladies Night, A Cappella meets Bigband
