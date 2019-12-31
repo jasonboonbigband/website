@@ -33,6 +33,7 @@
 <br/>
 <p><h2>Ladies Night - A Cappella meets Bigband</h2><br />	
 		  <img src="amasing-crowdfunding.png" width="450" /> <br/>
+		  <br/>
 Unser neues Projekt zusammen mit der A Cappella Formation amasing geht im Juni 2020 über die Bühne! <br/>
 Ab Anfang 2020 läuft das croudfunding-Projekt auf <a href="https://wemakeit.com/projects/a-cappella-meets-bigband">wemakeit.com</a><br/>
 Danke für eure Unterstützung!<p>
