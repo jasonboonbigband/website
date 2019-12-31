@@ -33,6 +33,7 @@
 <p>		  
 <p>
 <h2>Ladies Night - A Cappella meets Bigband</h2><br />	
+		  <img src="images/amasing-crowdfunding.jpeg" width="450" /> <br/>
 Unser neues Projekt zusammen mit der A Cappella Formation amasing geht im Juni 2020 über die Bühne! Ab Anfang 2020 läuft das croudfunding-Projekt auf <a href="https://wemakeit.com/projects/a-cappella-meets-bigband">wemakeit.com</a>
 Danke für eure Unterstützung!
 		
@@ -48,8 +49,8 @@ Danke für eure Unterstützung!
 	<b>September 2020</b><br/>
 	     Bigbandbattle-Weekend
          <p>
-		  <p>
-
+<p>
+<p>
  <h3>News</h3>
 	 <b>Jury-Preis der Landsgemeinde Kloten</b><br/>
 	 Wir konnten die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a> in Kloten nicht nur musikalisch umrahmen, sondern auch noch sehr überraschend den Jurypreis für unser Projekt entgegennehmen. Wir gratulieren allen Preisträgern und bedanken uns ganz herzlich bei den Organisatoren!
@@ -59,7 +60,7 @@ Danke für eure Unterstützung!
 	<p>
 	<img src="images/IMG-20190615-WA0004.jpeg" width="450" /> <br/>
 	<p>
-		 
+	<p>	 
      <h3>Vergangene Auftritte</h3>
 	<b>23. November 2019: Winterthur</b><br/>
 	     <a href="http://www.konservatorium.ch/aktuell">GROSSES MUSIKFEST AM KONSI </a>, zusammen mit der Konsi-Bigband.<br/>
