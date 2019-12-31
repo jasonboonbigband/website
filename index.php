@@ -45,7 +45,11 @@ Danke für eure Unterstützung!<p>
 		  e-motion, Kloten
 	      <p>
 	<b>Juni 2020</b><br/>
-	     Ladies Night, A Cappella meets Bigband
+	     Ladies Night, A Cappella meets Bigband<br/>
+		      19.6., Zürich KGH Unterstrass<br/>
+		      21.6., Winterthur, Theater am Gleis<br/>
+		      26.6., Uster, Jazz Container<br/>
+		      28.6., Kloten, Stadtfest<br/>
 		       <p>
 	<b>September 2020</b><br/>
 	     Bigbandbattle-Weekend
