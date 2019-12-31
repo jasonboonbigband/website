@@ -14,7 +14,7 @@
   	  <div class="leftside">
 
    
- 	 <h2>Herzlich Willkommen bei der JBBB!</h2><br />
+ 	<!-- <h2>Herzlich Willkommen bei der JBBB!</h2><br /> -->
 		  
 		 <!-- Start WOWSlider.com BODY section -->
 <div id="wowslider-container20">
@@ -29,33 +29,39 @@
 <!-- End WOWSlider.com BODY section -->
 		  
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
-	
- <p>		  
+
+<p>
+<h2>Ladies Night - A Cappella meets Bigband</h2><br />	
+Unser neues Projekt zusammen mit der A Cappella Formation amasing geht im Juni 2020 über die Bühne! Ab Anfang 2020 läuft das croudfunding-Projekt auf <a href="https://wemakeit.com/projects/a-cappella-meets-bigband">wemakeit.com</a>
+Danke für eure Unterstützung!
+		
+		  
+<p>		  
 <br/><h3>Aktuelle Auftritte</h3>
-	     <b>23. November 2019: Winterthur</b><br/>
-	     <a href="http://www.konservatorium.ch/aktuell">GROSSES MUSIKFEST AM KONSI </a>, zusammen mit der Konsi-Bigband.<br/>
-		  Wie der Jazz das Konsi eroberte<br/>
-19.00 Uhr, Rhythmiksaal<br/>
-Konsi Big Band (Leitung: Roman Bieri) und<br/>
-		  Jason Boon BigBand (Leitung: Stefan Mens)<br/>
-		<p>  
-		  <img src="images/Jubilaeum50JahreToe1.png" width="450" /> <br/>
-         <p>
-		 <b>2020</b><br/>
-	     wir planen einiges für das nächste Jahr. Wir freuen uns, euch bald mehr Details bekannt zu geben.
+	     <b>24. Mai 2020: Kloten</b><br/>
+	      <p>
+	<b>Juni 2020</b><br/>
+	     Ladies Night, A Cappella meets Bigband
+		       <p>
+	<b>September 2020</b><br/>
+	     Bigbandbattle-Weekend
          <p>
 		  <p>
 
  <h3>News</h3>
 	 <b>Jury-Preis der Landsgemeinde Kloten</b><br/>
 	 Wir konnten die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a> in Kloten nicht nur musikalisch umrahmen, sondern auch noch sehr überraschend den Jurypreis für unser Projekt entgegennehmen. Wir gratulieren allen Preisträgern und bedanken uns ganz herzlich bei den Organisatoren!
-	 Wir freuen uns sehr, dass das Format des Bigband-Battles die Jury überzeugt hat und sind hochmotiviert, das Projekt in die Tat umzusetzen!    
+	 Wir freuen uns sehr, dass das Format des Bigband-Battles die Jury überzeugt hat und sind hochmotiviert, das Projekt in die Tat umzusetzen!
+	Interessierte Bands melden sich gerne unter info at jbbb.ch
 	 <p>
 	<p>
 	<img src="images/IMG-20190615-WA0004.jpeg" width="450" /> <br/>
 	<p>
 		 
      <h3>Vergangene Auftritte</h3>
+	<b>23. November 2019: Winterthur</b><br/>
+	     <a href="http://www.konservatorium.ch/aktuell">GROSSES MUSIKFEST AM KONSI </a>, zusammen mit der Konsi-Bigband.<br/>
+		  Wie der Jazz das Konsi eroberte<br/>
 	 <b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
 	     <b>witterungsbedingt abgesagt!</b><br/>
 	     Bühne frei! <a href="images/Musik und Kultur_Final Flyer.pdf"> Musik und Kultur auf dem Stadtplatz</a>. Unter diesem Motto treten wir am Sonntag Vormittag auf dem Stadtplatz auf. Inkl. Frühstück!<br/>
