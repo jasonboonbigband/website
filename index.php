@@ -14,36 +14,65 @@
   	  <div class="leftside">
 
    
- 	 <h2>Herzlich Willkommen bei der JBBB!</h2><br />
+ 	<!-- <h2>Herzlich Willkommen bei der JBBB!</h2><br /> -->
 		  
-		  <!-- Start WOWSlider.com BODY section -->
-<div id="wowslider-container4">
+		 <!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container20">
 <div class="ws_images"><ul>
-		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/qeOylCO6uiA?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data4/images/qeoylco6uia.png" alt="JBBB Trailer 2016" title="JBBB Trailer 2016" id="wows4_0"/>Querschnitt aus der letzten Show mit den Darnettes.</li>
+		<li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/6D8KcCGC1R8?autoplay=0&rel=0&enablejsapi=1&playerapiid=ytplayer&wmode=transparent" frameborder="0" allowfullscreen></iframe><img src="data20/images/6d8kccgc1r8.png" alt="JBBB Trailer 2019" title="JBBB Trailer 2019" id="wows20_0"/></li>
 	</ul></div>
-<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery carousel</a> by WOWSlider.com v8.8m</div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">bootstrap carousel example</a> by WOWSlider.com v8.8m</div>
 <div class="ws_shadow"></div>
 </div>	
-<script type="text/javascript" src="engine4/wowslider.js"></script>
-<script type="text/javascript" src="engine4/script.js"></script>
+<script type="text/javascript" src="engine20/wowslider.js"></script>
+<script type="text/javascript" src="engine20/script.js"></script>
 <!-- End WOWSlider.com BODY section -->
 		  
     <!--  <img src="images/boons_kdo.jpg" width="450" /> <br/>-->
-	 <h3>Aktuelle Auftritte</h3>
-     <p>
-	     <br/><b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
+<br/>
+<br/>
+<p><h2>Ladies Night - A Cappella meets Bigband</h2><br />	
+		  <img src="amasing-crowdfunding.png" width="450" /> <br/>
+		  <br/>
+Unser neues Projekt zusammen mit der A Cappella Formation amasing geht leider nicht im Juni 2020 über die Bühne! <br/>
+Das crowdfunding-Projekt auf <a href="https://wemakeit.com/projects/a-cappella-meets-bigband">wemakeit.com</a> haben wir erfolgreich abgeschlossen. aber wegen der aktuellen Situation mussten wir die geplanten Daten auf unbestimmte Zeit verschieben. Wir halten euch hier und auf wemakeit auf dem Laufenden.<br/>
+Danke für eure Unterstützung!<p>
+		  <img src="images/amasing-Bild1.jpg" width="450" /> <br/>
+<br/>		
+<br/>		  
+<p><br/><h3>Aktuelle Auftritte</h3>
+	     <b>24. Mai 2020</b><br/>
+		  e-motion, Kloten
+	      <p>
+	<b>Juni 2020</b><br/>
+	     Ladies Night, A Cappella meets Bigband<br/>
+		      19.6., Zürich KGH Unterstrass<br/>
+		      21.6., Winterthur, Theater am Gleis<br/>
+		      26.6., Uster, Jazz Container<br/>
+		      28.6., Kloten, Stadtfest<br/>
+		       <p>
+	<b>September 2020</b><br/>
+	     Bigbandbattle-Weekend
+         <p>
+<br/>
+<br/>		 
+ <h3>News</h3>
+	 <b>Jury-Preis der Landsgemeinde Kloten</b><br/>
+	 Wir konnten die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a> in Kloten nicht nur musikalisch umrahmen, sondern auch noch sehr überraschend den Jurypreis für unser Projekt entgegennehmen. Wir gratulieren allen Preisträgern und bedanken uns ganz herzlich bei den Organisatoren!
+	 Wir freuen uns sehr, dass das Format des Bigband-Battles die Jury überzeugt hat und sind hochmotiviert, das Projekt in die Tat umzusetzen!
+	Interessierte Bands melden sich gerne unter info at jbbb.ch
+	 <p>
+	<p>
+	<img src="images/IMG-20190615-WA0004.jpeg" width="450" /> <br/>
+	<p>
+	<br/>	 
+     <h3>Vergangene Auftritte</h3>
+	<b>23. November 2019: Winterthur</b><br/>
+	     <a href="http://www.konservatorium.ch/aktuell">GROSSES MUSIKFEST AM KONSI </a>, zusammen mit der Konsi-Bigband.<br/>
+		  Wie der Jazz das Konsi eroberte<br/>
+	 <b>16. Juni 2019: Stadtplatz Kloten, Brunchkonzert</b><br/>
 	     <b>witterungsbedingt abgesagt!</b><br/>
 	     Bühne frei! <a href="images/Musik und Kultur_Final Flyer.pdf"> Musik und Kultur auf dem Stadtplatz</a>. Unter diesem Motto treten wir am Sonntag Vormittag auf dem Stadtplatz auf. Inkl. Frühstück!<br/>
-	     <br/><b>24. August 2019: Sommerfest Opfikon</b><br/>
-	     Sommerfest im Alterszentrum Gibeleich in Opfikon. Wir rocken das Festzelt, zusammen mit Patric Scott!
-         <p>
-
- <h3>News</h3>
-     <p>
-	  
-	  
-     <h3>Vergangene Auftritte</h3>
-<p>
 	<b>15. Juni 2019: Landsgemeinde Kloten</b><br/>
 	     Wir umrahmen die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a>, zusammen mit <a href="http://www.nicolassenn.ch/v4/">Nicolas Senn</a>. Zudem haben wir unser eigenes <a href="https://landsgemeinde-kloten.ch/projekte-2019/179-bigband-battle-weekend-kloten">Projekt</a> eingereicht! Das Voting läuft bis Ende Mai, danke für eure Stimme!<br/>
      <b>Bigband-Battle: <a href="http://www.buffaloband.ch/">Buffalo Band Bassaville (Bassersdorf)</a> vs JBBB</b><br/>
@@ -72,6 +101,9 @@ dieses Mal gegen die Buffalo Band Bassaville, und holte sich ihren ersten Sieg!
 	  <h3>Musiker gesucht</h3>
 		  Momentan suchen wir in den folgenden Registern Verstärkung:<br/> Posaune, Gitarre
 	  </p>
+	 <br/><h3>immer aktuell bleiben mit dem JBBB-Newsletter! </h3><br/>
+		Hier anmelden: <a href="https://jbbb.us19.list-manage.com/subscribe?u=d13bf7b1e6cf146bee3f604a8&id=7b4b9508d3">JBBB-Newsletter</a>
+		
   	
 
       <p>&nbsp;</p>
