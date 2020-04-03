@@ -41,24 +41,21 @@ Danke für eure Unterstützung!<p>
 <br/>		
 <br/>		  
 <p><br/><h3>Aktuelle Auftritte</h3>
-	     <b>24. Mai 2020</b><br/>
-		  e-motion, Kloten
+	   Die aktuelle Situation trifft auch uns, weshalb viele Gigs abgesagt oder verschoben werden mussten.
+		  
 	      <p>
-	<b>Juni 2020</b><br/>
+	<b>Daten offen</b><br/>
 	     Ladies Night, A Cappella meets Bigband<br/>
-		      19.6., Zürich KGH Unterstrass<br/>
-		      21.6., Winterthur, Theater am Gleis<br/>
-		      26.6., Uster, Jazz Container<br/>
-		      28.6., Kloten, Stadtfest<br/>
+	
 		       <p>
-	<b>September 2020</b><br/>
+	<b>Datum offen</b><br/>
 	     Bigbandbattle-Weekend
          <p>
 <br/>
 <br/>		 
  <h3>News</h3>
 	 <b>Jury-Preis der Landsgemeinde Kloten</b><br/>
-	 Wir konnten die diesjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a> in Kloten nicht nur musikalisch umrahmen, sondern auch noch sehr überraschend den Jurypreis für unser Projekt entgegennehmen. Wir gratulieren allen Preisträgern und bedanken uns ganz herzlich bei den Organisatoren!
+	 Wir konnten die letztjährige <a href="https://landsgemeinde-kloten.ch">Landsgemeinde </a> in Kloten nicht nur musikalisch umrahmen, sondern auch noch sehr überraschend den Jurypreis für unser Projekt entgegennehmen. Wir gratulieren allen Preisträgern und bedanken uns ganz herzlich bei den Organisatoren!
 	 Wir freuen uns sehr, dass das Format des Bigband-Battles die Jury überzeugt hat und sind hochmotiviert, das Projekt in die Tat umzusetzen!
 	Interessierte Bands melden sich gerne unter info at jbbb.ch
 	 <p>
